@@ -27,10 +27,6 @@ https://github.com/GareBear99/TizWildinEntertainmentHUB
 
 -   **RiftSynth Lite** -- Lightweight modular synthesizer engine.
 
--   **RiftSynth Pro** -- Expanded professional synthesis engine.
-
--   **WaveForm Pro** -- Advanced waveform synthesis plugin.
-
 -   **MAID Suite** -- Modular Audio Innovation & Development toolkit.
 
 ------------------------------------------------------------------------
