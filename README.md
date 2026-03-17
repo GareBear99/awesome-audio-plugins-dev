@@ -13,7 +13,7 @@ Inspired by the awesome-list movement.
 
 ### TizWildin Entertainment HUB
 
-Central hub for experimental audio plugins and DSP tools.
+Central hub for experimental audio plugins and DSP tools by TizWildin/GareBear99.
 
 https://github.com/GareBear99/TizWildinEntertainmentHUB
 
