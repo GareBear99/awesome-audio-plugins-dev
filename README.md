@@ -25,7 +25,7 @@ https://github.com/GareBear99/TizWildinEntertainmentHUB
 
 -   **PaintMask** -- Visual paint‑based audio processing plugin.
 
--   **RiftSynth Lite** -- Lightweight modular synthesizer engine.
+-   **RiftWave Suite** -- Lightweight modular synthesizer engine.
 
 -   **MAID Suite** -- Modular Audio Innovation & Development toolkit.
 
