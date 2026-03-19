@@ -30,8 +30,8 @@ https://github.com/GareBear99/TizWildinEntertainmentHUB
 -   **MAID Suite** -- Modular Audio Innovation & Development toolkit.
 
 -   **FreeSampler** -- Lightweight High-Performance Audio Sampler Plugin (JUCE)
--   
-    https://github.com/GareBear99/FreeSampler_v0.3
+   
+   https://github.com/GareBear99/FreeSampler_v0.3
 
 ------------------------------------------------------------------------
 
