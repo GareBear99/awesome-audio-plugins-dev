@@ -20,8 +20,10 @@
 - [Filters](#filters)
 - [Utility / Metering](#utility--metering)
 - [Open-Source DSP Plugins](#open-source-dsp-plugins)
+- [Multi-Effect Bundles](#multi-effect-bundles)
 - [Plugin Frameworks](#plugin-frameworks)
 - [DSP Resources](#dsp-resources)
+- [Free Sample Packs](#free-sample-packs)
 - [Contributing](#contributing)
 
 ---
@@ -92,6 +94,8 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**Klanghelm IVGI**](https://klanghelm.com/contents/products/IVGI.php) — Analog-style saturation.
 - [**ChowTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) — Physical model of analog tape saturation (open source).
 - [**Wolf Shaper**](https://github.com/wolf-plugins/wolf-shaper) — Open-source waveshaper with drawable curve.
+- [**Cymatics Diablo Lite**](https://cymatics.fm/products/diablo-lite) — Free distortion/saturation plugin with multiple modes.
+- [**Dumpster Fire**](https://www.audiodamage.com/pages/free-and-legacy) — Audio Damage free distortion with multiple algorithms.
 
 ---
 
@@ -102,6 +106,9 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**Dragonfly Reverb**](https://github.com/michaelwillis/dragonfly-reverb) — Open-source algorithmic reverb suite (Hall, Room, Plate, Early).
 - [**TAL-Reverb-4**](https://tal-software.com/products/tal-reverb-4) — Vintage plate reverb with modulation.
 - [**CloudSeed**](https://github.com/ValdemarOrn/CloudSeed) — Algorithmic reverb for huge, endless spaces (open source).
+- [**Cymatics Space Lite**](https://cymatics.fm/products/space-lite) — Free reverb plugin with lush spatial effects.
+- [**Cymatics Memory**](https://cymatics.fm/products/memory) — Free reverb/atmosphere plugin.
+- [**PocketDimension**](https://www.audiodamage.com/pages/free-and-legacy) — Audio Damage free stereo enhancer/reverb.
 
 ---
 
@@ -110,6 +117,7 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**TAL-Dub-III**](https://tal-software.com/products/tal-dub-3) — Vintage-style dub delay with tape character.
 - [**Spaceship Delay**](https://www.kvraudio.com/product/spaceship-delay-by-musical-entropy) — Versatile delay with filters and modulation.
 - [**ChowMatrix**](https://github.com/jatinchowdhury18/ChowMatrix) — Open-source delay matrix processor (up to 256 delay lines).
+- [**Cymatics Deja Vu**](https://cymatics.fm/products/deja-vu) — Free delay plugin with lo-fi and tape character.
 
 ---
 
@@ -119,6 +127,12 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**Hysteresis**](https://glitchmachines.com/products/hysteresis/) — Glitch delay with modulation.
 - [**PaulXStretch**](https://github.com/essej/paulxstretch) — Extreme time-stretching for ambient textures (open source).
 - [**Vinyl**](https://www.izotope.com/en/products/vinyl.html) — Vinyl simulation (dust, warp, mechanical noise).
+- [**Backmask**](https://www.audiodamage.com/pages/free-and-legacy) — Audio Damage free reverse-audio creative effect.
+- [**DreamEater**](https://www.audiodamage.com/pages/free-and-legacy) — Audio Damage free audio mangler/destroyer.
+- [**MISHBY**](https://www.audiodamage.com/pages/free-and-legacy) — Audio Damage free lo-fi VHS/tape processor.
+- [**MouthOfSorrow**](https://www.audiodamage.com/pages/free-and-legacy) — Audio Damage free granular effects processor.
+- [**Rift Feedback Lite**](https://www.minimal.audio/) — Minimal Audio free feedback effect plugin.
+- [**Rift Filter Lite**](https://www.minimal.audio/) — Minimal Audio free creative filter plugin.
 
 ---
 
@@ -134,6 +148,7 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 
 - [**TAL-Filter-2**](https://tal-software.com/products/tal-filter-2) — Host-synced filter with tempo-synced LFO.
 - [**HY-Filter4 Free**](https://hy-plugins.com/product/hy-filter4-free/) — Multi-mode filter with visualization.
+- [**Morph EQ**](https://kilohearts.com/products/morph_eq) — Kilohearts free morphing parametric EQ/filter.
 
 ---
 
@@ -144,6 +159,7 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**MLoudnessAnalyzer**](https://www.meldaproduction.com/MLoudnessAnalyzer) — Loudness analyzer from MeldaProduction.
 - [**HOFA 4U Meter**](https://hofa-plugins.de/en/plugins/4u/) — Level, correlation, and goniometer meters.
 - [**dpMeter5**](https://www.tb-software.com/TBProAudio/dpmeter5.html) — Multichannel meter with RMS, LUFS, true peak.
+- [**MiniMeters**](https://www.minimeters.app/) — Free standalone/plugin audio metering (waveform, loudness, spectrum).
 
 ---
 
@@ -153,6 +169,15 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**Chowdhury DSP**](https://github.com/Chowdhury-DSP) — High-quality open-source effects using neural network modeling.
 - [**DISTRHO Ports**](https://github.com/DISTRHO/DISTRHO-Ports) — Collection of plugins ported to Linux/LV2.
 - [**ZL-Audio Plugins**](https://github.com/ZL-Audio) — Parametric EQ, compressor, and saturator.
+
+---
+
+## Multi-Effect Bundles
+
+- [**Kilohearts Essentials**](https://kilohearts.com/products/kilohearts_essentials) — Free bundle of 30+ snap-in effects (EQ, compressor, distortion, delay, reverb, filter, chorus, phaser, and more) with Snap Heap host.
+- [**MeldaProduction MFreeFXBundle**](https://www.meldaproduction.com/MFreeFXBundle) — Free bundle of 37+ plugins including EQ, compressor, reverb, analyzer, and more.
+- [**Audio Damage Free Collection**](https://www.audiodamage.com/pages/free-and-legacy) — 6 free plugins: Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, PocketDimension.
+- [**Cymatics Free Plugins**](https://cymatics.fm/pages/free-plugins) — Free plugin collection: Diablo Lite (distortion), Space Lite (reverb), Memory (reverb), Deja Vu (delay).
 
 ---
 
@@ -173,6 +198,56 @@ Central hub for experimental audio plugins, synth engines, and DSP tools by TizW
 - [**The Scientist and Engineer's Guide to DSP**](http://www.dspguide.com/) — Free DSP textbook.
 - [**JOS Stanford**](https://ccrma.stanford.edu/~jos/) — Julius O. Smith's DSP and music processing books (free online).
 - [**KVR Developer Forum**](https://www.kvraudio.com/forum/viewforum.php?f=33) — Plugin development community.
+
+---
+
+## Free Sample Packs
+
+### TizWildin Sample Packs (Open Source)
+
+| Pack | Description |
+|------|-------------|
+| [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples — tuned to every chromatic key, 7 variants + BPM-synced |
+| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115 riser samples — noise, synth, drum, FX, cinematic + BPM-synced |
+| [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit — 808s, cowbells, drums, MIDI patterns, templates |
+
+### Cymatics Free Packs
+
+All available at [cymatics.fm/pages/free-download-vault](https://cymatics.fm/pages/free-download-vault):
+
+- **Starter Packs** — EDM, Dubstep, Future Bass, House, Lofi (drums, synths, FX, vocals per genre)
+- **Light Free Sample Pack** — Multi-genre starter samples
+- **2020 Melody Collection** — Loop stems across multiple genres
+- **Mystery Pack Vol 4** — Drums, melodies (trap, drill, RnB, afrobeat), vocals, hi-hat MIDI
+- **Nightmares Trap Melody Loops** — Dark trap loops with stems and MIDI
+- **Python Free MIDI Pack** — MIDI melody collection
+- **Vibrations Guitar Sample Pack** — Guitar loops (chill, hip hop, metal, pop, reggae)
+- **Waves MIDI Collection** — MIDI melodies
+- **PHARAOH Beta Pack** — Genre-spanning sample pack
+- **Dope Drums Vol. 1** — Drum loops and one-shots
+
+### Stickz Free Packs
+
+All available at [stickz.co](https://stickz.co):
+
+- **Beta Packs** — Ashes, Censored, Chroma, Nurture, Smile (samples + Serum presets + project files)
+- **Toolkits** — Future Bass, Hip-Hop, Progressive House (samples + Serum/Sylenth1 presets + project files)
+- **FX Toolkit / Rise** — Risers, impacts, downlifters, ambience, transitions
+- **Hearts** — Guitar loop toolkit
+- **Vocal Chop Toolkit** — Vocal chops, granular loops, vocoded loops
+- **Legacy** — Analog wavetables for Serum
+- **Sticky Sounds Vol. 2–5** — Sylenth1 presets
+- **Edition Packs** — Brooks, Chainsmokers, Walker editions (Sylenth1 presets)
+- **Stark** — Future bass project file + samples + presets
+
+### Other Free Packs
+
+- **Godlike Phonk Drum Kit** — Free phonk kit: 808s, kicks, snares, hats, cowbells, claps, cymbals, FX
+- **VIVIVI Phonk Drumkit** — 808s, kicks, snares, hi-hats, vocal samples
+- **Candy Boy Phonk Sample Kit** — Phonk production kit ([soundpacks.com](http://soundpacks.com/))
+- **INJECTION TAPE** — Acapellas, drum loops, drums, samples + presets
+- **Kojima Sample Pack Vol 1.0** — Memphis-style kit: 808s, kicks, snares, hats, cowbells, percs, acapellas
+- **Euphoria Vocal Sample Pack** — Acapellas, ad libs, chants, vocal chops, sung phrases, tonal one-shots
 
 ---
 
