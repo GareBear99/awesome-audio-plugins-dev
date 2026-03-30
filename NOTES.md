@@ -1,29 +1,25 @@
-# Maintenance Notes
+# Maintainer Notes
 
-This document tracks repository maintenance ideas and longer-range expansion opportunities.
+## Positioning
 
-## Current structure
+This repository should read like a **maintained curation project**, not a personal scratchpad.
 
-The repository currently uses a hub-and-spoke layout built around:
+## Tone rules
 
-- a central `README.md`
-- focused category pages
-- contribution and maintenance documents
+- Prefer plain language over hype.
+- Keep descriptions short and useful.
+- Avoid talking directly to the reader like an ad.
+- Avoid stuffing entries with adjectives.
+- Let category structure and good selections do the work.
 
-## Maintenance goals
+## Quality bar
 
-- keep descriptions concise and factual
-- avoid duplicate entries across sections when unnecessary
-- prefer official project links and official repositories
-- keep category pages distinct enough to justify their existence
-- expand only where a new page materially improves navigation
+A smaller, stronger list is better than a giant weak list.
 
-## Future expansion ideas
+## Review pass before publishing
 
-Potential additions include:
-
-- a dedicated synthesizer page
-- a dedicated reverb page
-- a dedicated compression page
-- a page for validation, testing, and plugin QA tools
-- contribution guidance for submitting this repository to external curated lists
+- prune weak entries
+- fix duplicate categories
+- make sure official links are used where possible
+- keep the main README readable above the fold
+- make sure featured ecosystem links are justified, not just self-referential

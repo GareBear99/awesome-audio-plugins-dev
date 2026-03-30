@@ -2,23 +2,28 @@
 
 A curated collection of **free audio plugins**, **open-source DSP tools**, **plugin development frameworks**, and **audio engineering resources** across **VST3, AU, CLAP, and LV2**.
 
-This repository is organized as a browsable reference for developers, producers, and researchers who want a single place to discover useful tools, study audio-plugin ecosystems, and navigate the open-source side of audio software.
+This repository is designed as a **developer-facing discovery hub** for people who want to:
+- find genuinely useful free plugins
+- study real open-source audio-plugin codebases
+- compare frameworks, APIs, and plugin standards
+- learn audio DSP from practical references
+- discover adjacent sound resources that fit real production workflows
 
 ---
 
 ## Why this repository exists
 
-Many audio-plugin lists are either too broad, too producer-only, too outdated, or too thin on the development side.
+A lot of plugin lists are one of two things:
+- broad but shallow
+- useful for producers, but weak for developers
 
-This project focuses on the overlap between:
+This repository focuses on the overlap between:
+- **free tools worth using**
+- **open-source DSP worth studying**
+- **frameworks worth building on**
+- **learning resources worth keeping bookmarked**
 
-- useful free plugins
-- serious open-source DSP work
-- plugin frameworks and toolchains
-- learning resources for audio development
-- sample packs and sound resources that fit naturally into the wider ecosystem
-
-The goal is not to list everything. The goal is to keep this collection useful, readable, and expandable.
+The goal is **not** to become the biggest list. The goal is to stay **useful, readable, and credible**.
 
 ## Start here
 
@@ -28,16 +33,22 @@ The goal is not to list everything. The goal is to keep this collection useful, 
 - **Open-source DSP plugin repositories** → [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md)
 - **Sample packs and sound resources** → [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md)
 - **FAQ** → [Q_AND_A_FAQ.md](Q_AND_A_FAQ.md)
+- **Submission targets** → [OUTREACH_TARGETS.md](OUTREACH_TARGETS.md)
 
 ## Scope
 
 This repository covers:
-
 - free audio plugins for mixing, synthesis, effects, and metering
 - open-source DSP tools and plugin repositories
 - plugin development frameworks for VST3, AU, CLAP, and LV2
 - DSP learning resources for beginner through advanced study
 - free sample packs and sound resources
+
+It deliberately avoids:
+- random low-information plugin dumps
+- weak affiliate-list style content
+- bloated descriptions
+- duplicate entries across categories when one placement is enough
 
 ## Quick picks
 
@@ -49,12 +60,32 @@ This repository covers:
 | Open-Source DSP Repos | [Chowdhury DSP](https://github.com/Chowdhury-DSP) |
 | Sample Packs | [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md) |
 
+## How to use this repository
+
+- Start with the main README for category-level discovery.
+- Open the category pages when you want deeper, more focused lists.
+- Use the framework and DSP pages when evaluating how to build plugins, not just which plugins to download.
+- Use the outreach docs if you want to grow the repository's visibility after publishing.
+
+## Inclusion standard
+
+An entry should usually satisfy at least one of these:
+- it is a strong free plugin with a real-world use case
+- it is an open-source DSP or plugin project worth studying
+- it is a framework, API, or standard relevant to plugin development
+- it is a learning resource with lasting technical value
+- it is a sound resource that fits naturally into the wider audio-tooling ecosystem
+
+A project does **not** belong here just because it exists.
+
 ## Contents
 
 - [Why this repository exists](#why-this-repository-exists)
 - [Start here](#start-here)
 - [Scope](#scope)
 - [Quick picks](#quick-picks)
+- [How to use this repository](#how-to-use-this-repository)
+- [Inclusion standard](#inclusion-standard)
 - [Featured ecosystem](#featured-ecosystem)
 - [Equalizers](#equalizers)
 - [Synthesizers](#synthesizers)
@@ -81,7 +112,7 @@ This repository covers:
 
 ### [TizWildin Entertainment HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-A growing ecosystem of experimental audio plugins, DSP tools, synth projects, and sound resources centered around open-source distribution and real plugin implementation.
+A growing ecosystem of experimental audio plugins, DSP tools, synth projects, and sound resources centered around open-source distribution, plugin development, and creator-facing tooling.
 
 | Project | Summary |
 |---|---|
@@ -249,12 +280,11 @@ See the full guide: [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND
 ## Repository structure
 
 This project uses a hub-and-spoke layout:
+- `README.md` is the main discovery page
+- category pages hold denser topic-specific lists
+- support docs cover contributions, validation, maintenance, and outreach
 
-- `README.md` acts as the main discovery page
-- category pages expand the most useful topic clusters
-- support docs cover contributions, maintenance, and repository hygiene
-
-This keeps the main page readable while allowing deeper category coverage.
+That keeps the front page readable while still allowing category depth.
 
 ## Contributing
 
