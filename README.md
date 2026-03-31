@@ -33,6 +33,7 @@ The goal is **not** to become the biggest list. The goal is to stay **useful, re
 - **Open-source DSP plugin repositories** → [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md)
 - **Sample packs and sound resources** → [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md)
 - **FAQ** → [Q_AND_A_FAQ.md](Q_AND_A_FAQ.md)
+- **Link pages directory** → [LINK_PAGES/README.md](LINK_PAGES/README.md)
 - **Submission targets** → [OUTREACH_TARGETS.md](OUTREACH_TARGETS.md)
 
 ## Scope
@@ -116,148 +117,148 @@ A growing ecosystem of experimental audio plugins, DSP tools, synth projects, an
 
 | Project | Summary |
 |---|---|
-| [**FreeEQ8**](https://github.com/GareBear99/FreeEQ8) | Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis |
-| [**PaintMask**](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) | Paint-driven audio processing and visual interaction concept |
-| [**RiftWave Suite**](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) | Modular synth and waveform-focused plugin ecosystem |
-| [**WURP**](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) | Experimental sound-design engine focused on motion, formant behavior, and destructive coloration |
-| [**AETHER**](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) | Choir and atmosphere designer for cinematic and ambient sound shaping |
-| [**WhisperGate**](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) | Procedural whisper and ritual-choir atmosphere plugin concept |
-| [**Therum**](https://github.com/GareBear99/Therum_JUCE-Plugin) | Free wavetable synth project |
-| [**FreeSampler**](https://github.com/GareBear99/FreeSampler_v0.3) | Lightweight sampler plugin project |
-| [**MixMaid**](https://github.com/GareBear99/MixMaid) | Mixing utility toolkit |
-| [**BassMaid**](https://github.com/GareBear99/BassMaid) | Bass enhancement and low-end processing concept |
-| [**SpaceMaid**](https://github.com/GareBear99/SpaceMaid) | Spatial processing concept |
-| [**GlueMaid**](https://github.com/GareBear99/GlueMaid) | Glue / cohesion mix-bus processor concept |
+| [**FreeEQ8**](LINK_PAGES/freeeq8.md) | Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis · [Official site / repo](https://github.com/GareBear99/FreeEQ8) |
+| [**PaintMask**](LINK_PAGES/paintmask.md) | Paint-driven audio processing and visual interaction concept · [Official site / repo](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) |
+| [**RiftWave Suite**](LINK_PAGES/riftwave-suite.md) | Modular synth and waveform-focused plugin ecosystem · [Official site / repo](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) |
+| [**WURP**](LINK_PAGES/wurp.md) | Experimental sound-design engine focused on motion, formant behavior, and destructive coloration · [Official site / repo](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) |
+| [**AETHER**](LINK_PAGES/aether.md) | Choir and atmosphere designer for cinematic and ambient sound shaping · [Official site / repo](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) |
+| [**WhisperGate**](LINK_PAGES/whispergate.md) | Procedural whisper and ritual-choir atmosphere plugin concept · [Official site / repo](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) |
+| [**Therum**](LINK_PAGES/therum.md) | Free wavetable synth project · [Official site / repo](https://github.com/GareBear99/Therum_JUCE-Plugin) |
+| [**FreeSampler**](LINK_PAGES/freesampler.md) | Lightweight sampler plugin project · [Official site / repo](https://github.com/GareBear99/FreeSampler_v0.3) |
+| [**MixMaid**](LINK_PAGES/mixmaid.md) | Mixing utility toolkit · [Official site / repo](https://github.com/GareBear99/MixMaid) |
+| [**BassMaid**](LINK_PAGES/bassmaid.md) | Bass enhancement and low-end processing concept · [Official site / repo](https://github.com/GareBear99/BassMaid) |
+| [**SpaceMaid**](LINK_PAGES/spacemaid.md) | Spatial processing concept · [Official site / repo](https://github.com/GareBear99/SpaceMaid) |
+| [**GlueMaid**](LINK_PAGES/gluemaid.md) | Glue / cohesion mix-bus processor concept · [Official site / repo](https://github.com/GareBear99/GlueMaid) |
 
 ## Equalizers
 
 See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 
-- [**FreeEQ8**](https://github.com/GareBear99/FreeEQ8) — Free open-source 8-band parametric EQ with dynamic EQ, match EQ, linear phase, and spectrum analyzer.
-- [**TDR Nova**](https://www.tokyodawn.net/tdr-nova/) — Dynamic parametric EQ with sidechain.
-- [**TDR SlickEQ**](https://www.tokyodawn.net/tdr-slickeq/) — Musical 3-band mixing EQ with saturation and output-stage models.
-- [**MEqualizer**](https://www.meldaproduction.com/MEqualizer) — General-purpose parametric EQ.
-- [**Luftikus**](https://github.com/lkjbdsp/lkjb-plugins) — Analog-style mastering EQ inspired by the Maag EQ4.
-- [**Blue Cat Triple EQ**](https://www.bluecataudio.com/Products/Product_TripleEQ/) — Simple 3-band semi-parametric EQ.
-- [**Marvel GEQ**](https://www.voxengo.com/product/marvelgeq/) — Linear-phase 16-band graphic EQ.
-- [**ReaEQ**](https://www.reaper.fm/reaplugs/) — Unlimited-band parametric EQ from Cockos.
+- [**FreeEQ8**](LINK_PAGES/freeeq8.md) — Free open-source 8-band parametric EQ with dynamic EQ, match EQ, linear phase, and spectrum analyzer. [Official site / repo](https://github.com/GareBear99/FreeEQ8)
+- [**TDR Nova**](LINK_PAGES/tdr-nova.md) — Dynamic parametric EQ with sidechain. [Official site / repo](https://www.tokyodawn.net/tdr-nova/)
+- [**TDR SlickEQ**](LINK_PAGES/tdr-slickeq.md) — Musical 3-band mixing EQ with saturation and output-stage models. [Official site / repo](https://www.tokyodawn.net/tdr-slickeq/)
+- [**MEqualizer**](LINK_PAGES/mequalizer.md) — General-purpose parametric EQ. [Official site / repo](https://www.meldaproduction.com/MEqualizer)
+- [**Luftikus**](LINK_PAGES/luftikus.md) — Analog-style mastering EQ inspired by the Maag EQ4. [Official site / repo](https://github.com/lkjbdsp/lkjb-plugins)
+- [**Blue Cat Triple EQ**](LINK_PAGES/blue-cat-triple-eq.md) — Simple 3-band semi-parametric EQ. [Official site / repo](https://www.bluecataudio.com/Products/Product_TripleEQ/)
+- [**Marvel GEQ**](LINK_PAGES/marvel-geq.md) — Linear-phase 16-band graphic EQ. [Official site / repo](https://www.voxengo.com/product/marvelgeq/)
+- [**ReaEQ**](LINK_PAGES/reaeq.md) — Unlimited-band parametric EQ from Cockos. [Official site / repo](https://www.reaper.fm/reaplugs/)
 
 ## Synthesizers
 
-- [**Vital**](https://vital.audio) — Advanced wavetable synthesizer with spectral warping and extensive modulation.
-- [**Surge XT**](https://surge-synthesizer.github.io) — Open-source hybrid synth with deep modulation and a large feature set.
-- [**Dexed**](https://github.com/asb2m10/dexed) — Yamaha DX7 FM synthesis emulation.
-- [**Helm**](https://tytel.org/helm/) — Cross-platform polyphonic synth.
-- [**Odin2**](https://thewavewarden.com/odin2/) — Hybrid synth with analog-modeled filters.
-- [**OB-Xd**](https://github.com/reales/OB-Xd) — Oberheim-inspired virtual analog synth.
-- [**TAL-NoiseMaker**](https://tal-software.com/products/tal-noisemaker) — Virtual analog synth with strong preset support.
-- [**Tunefish4**](https://github.com/paynebc/tunefish) — Additive synthesizer.
+- [**Vital**](LINK_PAGES/vital.md) — Advanced wavetable synthesizer with spectral warping and extensive modulation. [Official site / repo](https://vital.audio)
+- [**Surge XT**](LINK_PAGES/surge-xt.md) — Open-source hybrid synth with deep modulation and a large feature set. [Official site / repo](https://surge-synthesizer.github.io)
+- [**Dexed**](LINK_PAGES/dexed.md) — Yamaha DX7 FM synthesis emulation. [Official site / repo](https://github.com/asb2m10/dexed)
+- [**Helm**](LINK_PAGES/helm.md) — Cross-platform polyphonic synth. [Official site / repo](https://tytel.org/helm/)
+- [**Odin2**](LINK_PAGES/odin2.md) — Hybrid synth with analog-modeled filters. [Official site / repo](https://thewavewarden.com/odin2/)
+- [**OB-Xd**](LINK_PAGES/ob-xd.md) — Oberheim-inspired virtual analog synth. [Official site / repo](https://github.com/reales/OB-Xd)
+- [**TAL-NoiseMaker**](LINK_PAGES/tal-noisemaker.md) — Virtual analog synth with strong preset support. [Official site / repo](https://tal-software.com/products/tal-noisemaker)
+- [**Tunefish4**](LINK_PAGES/tunefish4.md) — Additive synthesizer. [Official site / repo](https://github.com/paynebc/tunefish)
 
 ## Compression
 
-- [**TDR Kotelnikov**](https://www.tokyodawn.net/tdr-kotelnikov/) — Transparent wideband dynamics processor.
-- [**RoughRider3**](https://www.audiodamage.com/pages/free-and-legacy) — Character compressor with strong coloration.
-- [**DC1A**](https://klanghelm.com/contents/products/DC1A.php) — Minimal one-knob compressor.
-- [**MJUC jr.**](https://klanghelm.com/contents/products/MJUCjr.php) — Variable-mu tube compressor emulation.
-- [**OTT**](https://xferrecords.com/freeware) — Multiband upward and downward compression.
+- [**TDR Kotelnikov**](LINK_PAGES/tdr-kotelnikov.md) — Transparent wideband dynamics processor. [Official site / repo](https://www.tokyodawn.net/tdr-kotelnikov/)
+- [**RoughRider3**](LINK_PAGES/roughrider3.md) — Character compressor with strong coloration. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
+- [**DC1A**](LINK_PAGES/dc1a.md) — Minimal one-knob compressor. [Official site / repo](https://klanghelm.com/contents/products/DC1A.php)
+- [**MJUC jr.**](LINK_PAGES/mjuc-jr.md) — Variable-mu tube compressor emulation. [Official site / repo](https://klanghelm.com/contents/products/MJUCjr.php)
+- [**OTT**](LINK_PAGES/ott.md) — Multiband upward and downward compression. [Official site / repo](https://xferrecords.com/freeware)
 
 ## Saturation / Distortion
 
-- [**Softube Saturation Knob**](https://www.softube.com/saturationknob) — One-knob saturation.
-- [**CamelCrusher**](https://www.audiopluginsforfree.com/camelcrusher/) — Distortion/compressor with warm tone.
-- [**Klanghelm IVGI**](https://klanghelm.com/contents/products/IVGI.php) — Analog-style saturation.
-- [**ChowTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) — Open-source analog tape model.
-- [**Wolf Shaper**](https://github.com/wolf-plugins/wolf-shaper) — Open-source waveshaper with drawable curve.
-- [**Cymatics Diablo Lite**](https://cymatics.fm/products/diablo-lite) — Free distortion and saturation plugin.
-- [**Dumpster Fire**](https://www.audiodamage.com/pages/free-and-legacy) — Distortion with multiple algorithms.
+- [**Softube Saturation Knob**](LINK_PAGES/softube-saturation-knob.md) — One-knob saturation. [Official site / repo](https://www.softube.com/saturationknob)
+- [**CamelCrusher**](LINK_PAGES/camelcrusher.md) — Distortion/compressor with warm tone. [Official site / repo](https://www.audiopluginsforfree.com/camelcrusher/)
+- [**Klanghelm IVGI**](LINK_PAGES/klanghelm-ivgi.md) — Analog-style saturation. [Official site / repo](https://klanghelm.com/contents/products/IVGI.php)
+- [**ChowTapeModel**](LINK_PAGES/chowtapemodel.md) — Open-source analog tape model. [Official site / repo](https://github.com/jatinchowdhury18/AnalogTapeModel)
+- [**Wolf Shaper**](LINK_PAGES/wolf-shaper.md) — Open-source waveshaper with drawable curve. [Official site / repo](https://github.com/wolf-plugins/wolf-shaper)
+- [**Cymatics Diablo Lite**](LINK_PAGES/cymatics-diablo-lite.md) — Free distortion and saturation plugin. [Official site / repo](https://cymatics.fm/products/diablo-lite)
+- [**Dumpster Fire**](LINK_PAGES/dumpster-fire.md) — Distortion with multiple algorithms. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
 
 ## Reverb
 
-- [**Valhalla Supermassive**](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) — Large-space creative delay and reverb processor.
-- [**OrilRiver**](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) — Algorithmic stereo reverb.
-- [**Dragonfly Reverb**](https://github.com/michaelwillis/dragonfly-reverb) — Open-source algorithmic reverb suite.
-- [**TAL-Reverb-4**](https://tal-software.com/products/tal-reverb-4) — Vintage plate reverb.
-- [**CloudSeed**](https://github.com/ValdemarOrn/CloudSeed) — Algorithmic reverb for very large spaces.
-- [**Cymatics Space Lite**](https://cymatics.fm/products/space-lite) — Free spatial effect plugin.
-- [**Cymatics Memory**](https://cymatics.fm/products/memory) — Atmosphere and reverb-style effect.
-- [**PocketDimension**](https://www.audiodamage.com/pages/free-and-legacy) — Stereo enhancer and reverb-style utility.
+- [**Valhalla Supermassive**](LINK_PAGES/valhalla-supermassive.md) — Large-space creative delay and reverb processor. [Official site / repo](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+- [**OrilRiver**](LINK_PAGES/orilriver.md) — Algorithmic stereo reverb. [Official site / repo](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
+- [**Dragonfly Reverb**](LINK_PAGES/dragonfly-reverb.md) — Open-source algorithmic reverb suite. [Official site / repo](https://github.com/michaelwillis/dragonfly-reverb)
+- [**TAL-Reverb-4**](LINK_PAGES/tal-reverb-4.md) — Vintage plate reverb. [Official site / repo](https://tal-software.com/products/tal-reverb-4)
+- [**CloudSeed**](LINK_PAGES/cloudseed.md) — Algorithmic reverb for very large spaces. [Official site / repo](https://github.com/ValdemarOrn/CloudSeed)
+- [**Cymatics Space Lite**](LINK_PAGES/cymatics-space-lite.md) — Free spatial effect plugin. [Official site / repo](https://cymatics.fm/products/space-lite)
+- [**Cymatics Memory**](LINK_PAGES/cymatics-memory.md) — Atmosphere and reverb-style effect. [Official site / repo](https://cymatics.fm/products/memory)
+- [**PocketDimension**](LINK_PAGES/pocketdimension.md) — Stereo enhancer and reverb-style utility. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
 
 ## Delay
 
-- [**TAL-Dub-III**](https://tal-software.com/products/tal-dub-3) — Dub delay with tape-style character.
-- [**Spaceship Delay**](https://www.kvraudio.com/product/spaceship-delay-by-musical-entropy) — Delay with filters and modulation.
-- [**ChowMatrix**](https://github.com/jatinchowdhury18/ChowMatrix) — Open-source delay matrix processor.
-- [**Cymatics Deja Vu**](https://cymatics.fm/products/deja-vu) — Lo-fi and tape-style delay.
+- [**TAL-Dub-III**](LINK_PAGES/tal-dub-iii.md) — Dub delay with tape-style character. [Official site / repo](https://tal-software.com/products/tal-dub-3)
+- [**Spaceship Delay**](LINK_PAGES/spaceship-delay.md) — Delay with filters and modulation. [Official site / repo](https://www.kvraudio.com/product/spaceship-delay-by-musical-entropy)
+- [**ChowMatrix**](LINK_PAGES/chowmatrix.md) — Open-source delay matrix processor. [Official site / repo](https://github.com/jatinchowdhury18/ChowMatrix)
+- [**Cymatics Deja Vu**](LINK_PAGES/cymatics-deja-vu.md) — Lo-fi and tape-style delay. [Official site / repo](https://cymatics.fm/products/deja-vu)
 
 ## Creative Effects
 
-- [**Fracture**](https://glitchmachines.com/products/fracture/) — Buffer-effect glitch processor.
-- [**Hysteresis**](https://glitchmachines.com/products/hysteresis/) — Glitch delay with modulation.
-- [**PaulXStretch**](https://github.com/essej/paulxstretch) — Extreme time-stretching for ambient textures.
-- [**Vinyl**](https://www.izotope.com/en/products/vinyl.html) — Vinyl simulation.
-- [**Backmask**](https://www.audiodamage.com/pages/free-and-legacy) — Reverse-audio effect.
-- [**DreamEater**](https://www.audiodamage.com/pages/free-and-legacy) — Audio mangling effect.
-- [**MISHBY**](https://www.audiodamage.com/pages/free-and-legacy) — Lo-fi VHS and tape-style processor.
-- [**MouthOfSorrow**](https://www.audiodamage.com/pages/free-and-legacy) — Granular effects processor.
-- [**Rift Feedback Lite**](https://www.minimal.audio/) — Feedback effect plugin.
-- [**Rift Filter Lite**](https://www.minimal.audio/) — Creative filter plugin.
+- [**Fracture**](LINK_PAGES/fracture.md) — Buffer-effect glitch processor. [Official site / repo](https://glitchmachines.com/products/fracture/)
+- [**Hysteresis**](LINK_PAGES/hysteresis.md) — Glitch delay with modulation. [Official site / repo](https://glitchmachines.com/products/hysteresis/)
+- [**PaulXStretch**](LINK_PAGES/paulxstretch.md) — Extreme time-stretching for ambient textures. [Official site / repo](https://github.com/essej/paulxstretch)
+- [**Vinyl**](LINK_PAGES/vinyl.md) — Vinyl simulation. [Official site / repo](https://www.izotope.com/en/products/vinyl.html)
+- [**Backmask**](LINK_PAGES/backmask.md) — Reverse-audio effect. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
+- [**DreamEater**](LINK_PAGES/dreameater.md) — Audio mangling effect. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
+- [**MISHBY**](LINK_PAGES/mishby.md) — Lo-fi VHS and tape-style processor. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
+- [**MouthOfSorrow**](LINK_PAGES/mouthofsorrow.md) — Granular effects processor. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
+- [**Rift Feedback Lite**](LINK_PAGES/rift-feedback-lite.md) — Feedback effect plugin. [Official site / repo](https://www.minimal.audio/)
+- [**Rift Filter Lite**](LINK_PAGES/rift-filter-lite.md) — Creative filter plugin. [Official site / repo](https://www.minimal.audio/)
 
 ## Modulation
 
-- [**TAL-Chorus-LX**](https://tal-software.com/products/tal-chorus-lx) — Juno-style chorus emulation.
-- [**Blue Cat Chorus**](https://www.bluecataudio.com/Products/Product_Chorus/) — Classic stereo chorus.
-- [**ChowPhaser**](https://github.com/jatinchowdhury18/ChowPhaser) — Open-source phaser with analog-modeled feedback.
+- [**TAL-Chorus-LX**](LINK_PAGES/tal-chorus-lx.md) — Juno-style chorus emulation. [Official site / repo](https://tal-software.com/products/tal-chorus-lx)
+- [**Blue Cat Chorus**](LINK_PAGES/blue-cat-chorus.md) — Classic stereo chorus. [Official site / repo](https://www.bluecataudio.com/Products/Product_Chorus/)
+- [**ChowPhaser**](LINK_PAGES/chowphaser.md) — Open-source phaser with analog-modeled feedback. [Official site / repo](https://github.com/jatinchowdhury18/ChowPhaser)
 
 ## Filters
 
-- [**TAL-Filter-2**](https://tal-software.com/products/tal-filter-2) — Host-synced filter with tempo-synced modulation.
-- [**HY-Filter4 Free**](https://hy-plugins.com/product/hy-filter4-free/) — Multi-mode filter with visualization.
-- [**Morph EQ**](https://kilohearts.com/products/morph_eq) — Morphing parametric EQ and filter tool.
+- [**TAL-Filter-2**](LINK_PAGES/tal-filter-2.md) — Host-synced filter with tempo-synced modulation. [Official site / repo](https://tal-software.com/products/tal-filter-2)
+- [**HY-Filter4 Free**](LINK_PAGES/hy-filter4-free.md) — Multi-mode filter with visualization. [Official site / repo](https://hy-plugins.com/product/hy-filter4-free/)
+- [**Morph EQ**](LINK_PAGES/morph-eq.md) — Morphing parametric EQ and filter tool. [Official site / repo](https://kilohearts.com/products/morph_eq)
 
 ## Utility / Metering
 
-- [**SPAN**](https://www.voxengo.com/product/span/) — Real-time FFT spectrum analyzer.
-- [**Youlean Loudness Meter**](https://youlean.co/youlean-loudness-meter/) — LUFS loudness metering.
-- [**MLoudnessAnalyzer**](https://www.meldaproduction.com/MLoudnessAnalyzer) — Loudness analyzer.
-- [**HOFA 4U Meter**](https://hofa-plugins.de/en/plugins/4u/) — Level, correlation, and goniometer meters.
-- [**dpMeter5**](https://www.tb-software.com/TBProAudio/dpmeter5.html) — Multichannel meter with RMS, LUFS, and true peak.
-- [**MiniMeters**](https://www.minimeters.app/) — Standalone or plugin-style metering tools.
+- [**SPAN**](LINK_PAGES/span.md) — Real-time FFT spectrum analyzer. [Official site / repo](https://www.voxengo.com/product/span/)
+- [**Youlean Loudness Meter**](LINK_PAGES/youlean-loudness-meter.md) — LUFS loudness metering. [Official site / repo](https://youlean.co/youlean-loudness-meter/)
+- [**MLoudnessAnalyzer**](LINK_PAGES/mloudnessanalyzer.md) — Loudness analyzer. [Official site / repo](https://www.meldaproduction.com/MLoudnessAnalyzer)
+- [**HOFA 4U Meter**](LINK_PAGES/hofa-4u-meter.md) — Level, correlation, and goniometer meters. [Official site / repo](https://hofa-plugins.de/en/plugins/4u/)
+- [**dpMeter5**](LINK_PAGES/dpmeter5.md) — Multichannel meter with RMS, LUFS, and true peak. [Official site / repo](https://www.tb-software.com/TBProAudio/dpmeter5.html)
+- [**MiniMeters**](LINK_PAGES/minimeters.md) — Standalone or plugin-style metering tools. [Official site / repo](https://www.minimeters.app/)
 
 ## Open-Source DSP Plugins
 
 See the full guide: [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md)
 
-- [**Airwindows**](https://github.com/airwindows/airwindows) — Large collection of experimental audio effects.
-- [**Chowdhury DSP**](https://github.com/Chowdhury-DSP) — Research-driven open-source effects and models.
-- [**DISTRHO Ports**](https://github.com/DISTRHO/DISTRHO-Ports) — Plugins ported to Linux and LV2 ecosystems.
-- [**ZL-Audio Plugins**](https://github.com/ZL-Audio) — Parametric EQ, compressor, and saturator projects.
+- [**Airwindows**](LINK_PAGES/airwindows.md) — Large collection of experimental audio effects. [Official site / repo](https://github.com/airwindows/airwindows)
+- [**Chowdhury DSP**](LINK_PAGES/chowdhury-dsp.md) — Research-driven open-source effects and models. [Official site / repo](https://github.com/Chowdhury-DSP)
+- [**DISTRHO Ports**](LINK_PAGES/distrho-ports.md) — Plugins ported to Linux and LV2 ecosystems. [Official site / repo](https://github.com/DISTRHO/DISTRHO-Ports)
+- [**ZL-Audio Plugins**](LINK_PAGES/zl-audio-plugins.md) — Parametric EQ, compressor, and saturator projects. [Official site / repo](https://github.com/ZL-Audio)
 
 ## Multi-Effect Bundles
 
-- [**Kilohearts Essentials**](https://kilohearts.com/products/kilohearts_essentials) — Free bundle of snap-in effects and utilities.
-- [**MeldaProduction MFreeFXBundle**](https://www.meldaproduction.com/MFreeFXBundle) — Large free bundle including EQ, compression, reverb, and analysis tools.
-- [**Audio Damage Free Collection**](https://www.audiodamage.com/pages/free-and-legacy) — Free plugins such as Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, and PocketDimension.
-- [**Cymatics Free Plugins**](https://cymatics.fm/pages/free-plugins) — Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu.
+- [**Kilohearts Essentials**](LINK_PAGES/kilohearts-essentials.md) — Free bundle of snap-in effects and utilities. [Official site / repo](https://kilohearts.com/products/kilohearts_essentials)
+- [**MeldaProduction MFreeFXBundle**](LINK_PAGES/meldaproduction-mfreefxbundle.md) — Large free bundle including EQ, compression, reverb, and analysis tools. [Official site / repo](https://www.meldaproduction.com/MFreeFXBundle)
+- [**Audio Damage Free Collection**](LINK_PAGES/audio-damage-free-collection.md) — Free plugins such as Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, and PocketDimension. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
+- [**Cymatics Free Plugins**](LINK_PAGES/cymatics-free-plugins.md) — Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu. [Official site / repo](https://cymatics.fm/pages/free-plugins)
 
 ## Plugin Frameworks
 
 See the full guide: [PLUGIN_FRAMEWORKS_AND_APIS.md](PLUGIN_FRAMEWORKS_AND_APIS.md)
 
-- [**JUCE**](https://juce.com) — End-to-end C++ framework for audio plugins and apps.
-- [**iPlug2**](https://github.com/iPlug2/iPlug2) — Lightweight C++ plugin framework.
-- [**DPF**](https://github.com/DISTRHO/DPF) — Cross-platform framework with LV2, VST2/3, and CLAP support.
-- [**CLAP**](https://github.com/free-audio/clap) — Open plugin standard.
-- [**NIH-plug**](https://github.com/robbert-vdh/nih-plug) — Rust-based plugin framework.
+- [**JUCE**](LINK_PAGES/juce.md) — End-to-end C++ framework for audio plugins and apps. [Official site / repo](https://juce.com)
+- [**iPlug2**](LINK_PAGES/iplug2.md) — Lightweight C++ plugin framework. [Official site / repo](https://github.com/iPlug2/iPlug2)
+- [**DPF**](LINK_PAGES/dpf.md) — Cross-platform framework with LV2, VST2/3, and CLAP support. [Official site / repo](https://github.com/DISTRHO/DPF)
+- [**CLAP**](LINK_PAGES/clap.md) — Open plugin standard. [Official site / repo](https://github.com/free-audio/clap)
+- [**NIH-plug**](LINK_PAGES/nih-plug.md) — Rust-based plugin framework. [Official site / repo](https://github.com/robbert-vdh/nih-plug)
 
 ## DSP Resources
 
 See the full guide: [DSP_LEARNING_RESOURCES.md](DSP_LEARNING_RESOURCES.md)
 
-- [**Audio EQ Cookbook**](https://www.w3.org/2011/audio/audio-eq-cookbook.html) — Classic biquad filter formulas and reference material.
-- [**MusicDSP Archive**](https://www.musicdsp.org) — DSP algorithm snippets and references.
-- [**The Scientist and Engineer's Guide to DSP**](http://www.dspguide.com/) — Free DSP textbook.
-- [**JOS Stanford**](https://ccrma.stanford.edu/~jos/) — Julius O. Smith's music DSP resources.
-- [**KVR Developer Forum**](https://www.kvraudio.com/forum/viewforum.php?f=33) — Plugin-development community.
+- [**Audio EQ Cookbook**](LINK_PAGES/audio-eq-cookbook.md) — Classic biquad filter formulas and reference material. [Official site / repo](https://www.w3.org/2011/audio/audio-eq-cookbook.html)
+- [**MusicDSP Archive**](LINK_PAGES/musicdsp-archive.md) — DSP algorithm snippets and references. [Official site / repo](https://www.musicdsp.org)
+- [**The Scientist and Engineer's Guide to DSP**](LINK_PAGES/the-scientist-and-engineer-s-guide-to-dsp.md) — Free DSP textbook. [Official site / repo](http://www.dspguide.com/)
+- [**JOS Stanford**](LINK_PAGES/jos-stanford.md) — Julius O. Smith's music DSP resources. [Official site / repo](https://ccrma.stanford.edu/~jos/)
+- [**KVR Developer Forum**](LINK_PAGES/kvr-developer-forum.md) — Plugin-development community. [Official site / repo](https://www.kvraudio.com/forum/viewforum.php?f=33)
 
 ## Free Sample Packs
 
@@ -274,8 +275,8 @@ See the full guide: [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND
 
 ### Additional sources
 
-- [**Cymatics Free Download Vault**](https://cymatics.fm/pages/free-download-vault) — Rotating collection of free packs and production resources.
-- [**Stickz**](https://stickz.co) — Free and commercial sample content.
+- [**Cymatics Free Download Vault**](LINK_PAGES/cymatics-free-download-vault.md) — Rotating collection of free packs and production resources. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
+- [**Stickz**](LINK_PAGES/stickz.md) — Free and commercial sample content. [Official site / repo](https://stickz.co)
 
 ## Repository structure
 
