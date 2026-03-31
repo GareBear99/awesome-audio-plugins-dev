@@ -15,14 +15,6 @@ A short list of realistic places to submit or reference to after publication.
 - [**KVR Plugin Forum**](https://www.kvraudio.com/forum/) — broader plugin audience.
 - [**JUCE Forum**](https://forum.juce.com/) — relevant when highlighting open-source DSP and JUCE development.
 
-## Internal ecosystem backlink targets
-
-Add contextual links from:
-- FreeEQ8 README
-- TizWildinEntertainmentHUB
-- Portfolio repository
-- related plugin repositories with real topical overlap
-
 ## Submission rule
 
 Only submit once the repository:
