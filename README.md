@@ -34,7 +34,7 @@ The goal is **not** to become the biggest list. The goal is to stay **useful, re
 - **Sample packs and sound resources** → [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md)
 - **FAQ** → [Q_AND_A_FAQ.md](Q_AND_A_FAQ.md)
 - **Link pages directory** → [LINK_PAGES/README.md](LINK_PAGES/README.md)
-- **Submission targets** → [OUTREACH_TARGETS.md](OUTREACH_TARGETS.md)
+- **Outreach targets** → [OUTREACH_TARGETS.md](OUTREACH_TARGETS.md)
 
 ## Scope
 
