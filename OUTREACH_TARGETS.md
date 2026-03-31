@@ -1,6 +1,6 @@
 # Outreach Targets
 
-A short list of realistic places to submit or reference this repository after publication.
+A short list of realistic places to submit or reference to after publication.
 
 ## High-signal GitHub targets
 
