@@ -1,4 +1,7 @@
-# 🎛️ Awesome Audio Plugins & Dev
+# 🏛️ Awesome Audio Plugins & Dev
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/GareBear99?label=Sponsors&logo=github)](https://github.com/sponsors/GareBear99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/TizWildin)
 
 A curated collection of **free audio plugins**, **open-source DSP tools**, **plugin development frameworks**, and **audio engineering resources** across **VST3, AU, CLAP, and LV2**.
 
@@ -33,6 +36,7 @@ The goal is **not** to become the biggest list. The goal is to stay **useful, re
 - **Open-source DSP plugin repositories** → [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md)
 - **Sample packs and sound resources** → [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md)
 - **FAQ** → [Q_AND_A_FAQ.md](Q_AND_A_FAQ.md)
+- **Community submissions** → [COMMUNITY_SUBMISSIONS.md](COMMUNITY_SUBMISSIONS.md)
 - **Link pages directory** → [LINK_PAGES/README.md](LINK_PAGES/README.md)
 - **Outreach targets** → [OUTREACH_TARGETS.md](OUTREACH_TARGETS.md)
 
@@ -79,6 +83,10 @@ An entry should usually satisfy at least one of these:
 
 A project does **not** belong here just because it exists.
 
+## Topics
+
+`free-vst-plugins` `audio-dsp` `open-source-audio` `vst3` `au` `clap` `lv2` `juce` `plugin-development` `music-production` `free-sample-packs` `audio-engineering` `synthesizer` `equalizer` `reverb` `compressor` `awesome-list`
+
 ## Contents
 
 - [Why this repository exists](#why-this-repository-exists)
@@ -104,6 +112,7 @@ A project does **not** belong here just because it exists.
 - [DSP Resources](#dsp-resources)
 - [Free Sample Packs](#free-sample-packs)
 - [Repository structure](#repository-structure)
+- [Community submissions](#community-submissions)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -271,7 +280,8 @@ See the full guide: [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND
 | [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples tuned across the chromatic range |
 | [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115 riser samples spanning noise, synth, drum, FX, and cinematic categories |
 | [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit with 808s, cowbells, drums, MIDI patterns, and templates |
-| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Free future bass sample pack with loops, fills, drums, bass, synths, pads, and FX |
+|| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Free future bass sample pack with loops, fills, drums, bass, synths, pads, and FX |
+|| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | Dark and cinematic piano loops and one-shots for trap, drill, R&B, and film scoring |
 
 ### Additional sources
 
@@ -287,9 +297,20 @@ This project uses a hub-and-spoke layout:
 
 That keeps the front page readable while still allowing category depth.
 
+## Community submissions
+
+Want to suggest a plugin, framework, or resource? See [COMMUNITY_SUBMISSIONS.md](COMMUNITY_SUBMISSIONS.md) for how to submit, what gets accepted, and a full list of every accepted entry.
+
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for formatting and inclusion rules.
+
+## Support this project
+
+If this repository saves you time or helps you discover something useful:
+
+- [**GitHub Sponsors**](https://github.com/sponsors/GareBear99) — support ongoing curation and development
+- [**Buy Me a Coffee**](https://buymeacoffee.com/TizWildin) — one-time support
 
 ## License
 

@@ -34,3 +34,10 @@ Before opening a PR, make sure:
 - the description is concise
 - the formatting matches the rest of the file
 - the item is not already listed
+
+## Support
+
+If this project is useful to you, consider supporting it:
+
+- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
+- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)

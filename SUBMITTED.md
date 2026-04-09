@@ -136,9 +136,10 @@ It is intentionally honest:
 - **MusicDSP Archive**
 - **KVR Developer Forum**
 
-### Free Sample Packs (2)
+### Free Sample Packs (3)
 - **TizWildin Drum Kit Vol. 1**
 - **Cymatics Free Download Vault**
+- **Free Dark Piano Sound Kit**
 
 ## Externally accepted / approved elsewhere
 

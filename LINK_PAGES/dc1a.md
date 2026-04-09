@@ -30,15 +30,3 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 - **Website / repo:** [https://klanghelm.com/contents/products/DC1A.php](https://klanghelm.com/contents/products/DC1A.php)
 
-## Demo image note
-
-The image above is a repository-local preview card so every entry shows a visible graphic on GitHub immediately. Replace it with a real screenshot, waveform view, UI render, or branded product image for a stronger demo page.
-
-## Suggested future upgrades
-
-- Add supported formats (VST3 / AU / CLAP / LV2 / standalone)
-- Add platform support
-- Add licensing notes
-- Add open-source status
-- Add standout features
-- Add a short “why choose this over alternatives” section
