@@ -2,31 +2,45 @@
 
 ![GlueMaid demo card](assets/gluemaid.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Maid Suite**
+> **Role:** Mix-bus glue and cohesion
+> **Status:** ✅ Production
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+A mix-bus cohesion processor that merges gentle bus compression, saturation, and tonal shaping into a single glue stage.
 
-Glue / cohesion mix-bus processor concept
+## Overview
+GlueMaid sits on the mix bus and focuses on a specific job: give a mix a cohesive, finished feel without squashing transients or dulling the top end.
 
-## Why it belongs in this repository
+It combines a transparent bus compressor with musical analog-style saturation and a broad tilt EQ, tuned so default values already sound good on most sources.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **GlueMaid** is, what kind of reader it suits, and where to go next.
+## Core features
+- Program-dependent bus compression
+- Analog-style saturation stage with drive and mix controls
+- Broad tilt EQ for fast overall tonal balance
+- Internal gain matching so decisions remain tonal, not loud
 
-## What to look for
+## Typical workflows
+- Mix-bus or stem-bus glue during mixing
+- Final-cleanup stage before mastering hand-off
+- Parallel glue on aggressive drum busses
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/GlueMaid](https://github.com/GareBear99/GlueMaid)
+- **Latest release:** [https://github.com/GareBear99/GlueMaid/releases/latest](https://github.com/GareBear99/GlueMaid/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [MixMaid](https://github.com/GareBear99/MixMaid)
+- [ChainMaid](https://github.com/GareBear99/ChainMaid)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/GlueMaid](https://github.com/GareBear99/GlueMaid)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **GlueMaid** inside the TizWildin Entertainment HUB ecosystem._

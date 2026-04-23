@@ -142,8 +142,8 @@ A growing ecosystem of experimental audio plugins, DSP tools, synth projects, an
 #### 🎹 Instruments
 | Project | Summary |
 |---|---|
-| [**Instrudio**](https://github.com/GareBear99/Instrudio) | Ten-instrument cross-platform instrument ecosystem with hybrid HTML/plugin architecture · [Official site / repo](https://github.com/GareBear99/Instrudio) |
-| [**XyloCore**](https://github.com/GareBear99/XyloCore) | Playable xylophone / tuned-percussion instrument with velocity-mapped samples · [Official site / repo](https://github.com/GareBear99/XyloCore) |
+| [**Instrudio**](LINK_PAGES/instrudio.md) | Ten-instrument cross-platform instrument ecosystem with hybrid HTML/plugin architecture · [Official site / repo](https://github.com/GareBear99/Instrudio) |
+| [**XyloCore**](LINK_PAGES/xylocore.md) | Playable xylophone / tuned-percussion instrument with velocity-mapped samples · [Official site / repo](https://github.com/GareBear99/XyloCore) |
 
 #### 🧹 Maid Suite
 | Project | Summary |
@@ -152,7 +152,7 @@ A growing ecosystem of experimental audio plugins, DSP tools, synth projects, an
 | [**SpaceMaid**](LINK_PAGES/spacemaid.md) | Spatial processing concept · [Official site / repo](https://github.com/GareBear99/SpaceMaid) |
 | [**GlueMaid**](LINK_PAGES/gluemaid.md) | Glue / cohesion mix-bus processor concept · [Official site / repo](https://github.com/GareBear99/GlueMaid) |
 | [**MixMaid**](LINK_PAGES/mixmaid.md) | Mixing utility toolkit · [Official site / repo](https://github.com/GareBear99/MixMaid) |
-| [**ChainMaid**](https://github.com/GareBear99/ChainMaid) | Sidechain ducking and pumping effects · [Official site / repo](https://github.com/GareBear99/ChainMaid) |
+| [**ChainMaid**](LINK_PAGES/chainmaid.md) | Sidechain ducking and pumping effects · [Official site / repo](https://github.com/GareBear99/ChainMaid) |
 
 #### 🔊 Sound Design
 | Project | Summary |
@@ -167,8 +167,8 @@ A growing ecosystem of experimental audio plugins, DSP tools, synth projects, an
 | [**AETHER**](LINK_PAGES/aether.md) | Choir and atmosphere designer for cinematic and ambient sound shaping · [Official site / repo](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) |
 | [**WhisperGate**](LINK_PAGES/whispergate.md) | Procedural whisper and ritual-choir atmosphere plugin concept · [Official site / repo](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) |
 | [**FreeSampler**](LINK_PAGES/freesampler.md) | Lightweight sampler plugin project · [Official site / repo](https://github.com/GareBear99/FreeSampler_v0.3) |
-| [**VF-PlexLab**](https://github.com/GareBear99/VF-PlexLab) | VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation · [Official site / repo](https://github.com/GareBear99/VF-PlexLab) |
-| [**PAP-Forge-Audio**](https://github.com/GareBear99/PAP-Forge-Audio) | Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent · [Official site / repo](https://github.com/GareBear99/PAP-Forge-Audio) |
+| [**VF-PlexLab**](LINK_PAGES/vf-plexlab.md) | VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation · [Official site / repo](https://github.com/GareBear99/VF-PlexLab) |
+| [**PAP-Forge-Audio**](LINK_PAGES/pap-forge-audio.md) | Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent · [Official site / repo](https://github.com/GareBear99/PAP-Forge-Audio) |
 
 ## Equalizers
 

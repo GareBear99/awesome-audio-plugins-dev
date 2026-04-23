@@ -2,31 +2,46 @@
 
 ![WURP demo card](assets/wurp.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Experimental**
+> **Role:** Toxic Motion Engine - formant, saturation, elastic pitch
+> **Status:** ✅ Production
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+An experimental sound-design engine that mutates audio with formant motion, corrosive saturation, elastic pitch shifting, and a reactive animated UI.
 
-Experimental sound-design engine focused on motion, formant behavior, and destructive coloration
+## Overview
+WURP is the Toxic Motion Engine of the TizWildin ecosystem — an intentionally aggressive sound-design plugin designed to mangle, morph, and corrode input audio.
 
-## Why it belongs in this repository
+It is built around three interlocking modules: a formant-mover, a nonlinear saturator, and an elastic pitch stage. The UI responds to the signal in real time so that creative parameter moves have a visible, tactile feedback loop.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **WURP** is, what kind of reader it suits, and where to go next.
+## Core features
+- Formant motion with user-defined trajectories
+- Corrosive non-linear saturation with multiple character modes
+- Elastic pitch shifting that can be modulated
+- Reactive animated UI tied to the signal analysis
+- Preset system with save / load / browse
 
-## What to look for
+## Typical workflows
+- Vocal FX and chant-style mutation
+- Creature / monster design for games and film
+- Aggressive trap / hyperpop / industrial sound design
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE)
+- **Latest release:** [https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE/releases/latest](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [AETHER](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer)
+- [WhisperGate](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **WURP** inside the TizWildin Entertainment HUB ecosystem._

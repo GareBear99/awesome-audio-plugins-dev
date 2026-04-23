@@ -2,31 +2,45 @@
 
 ![SpaceMaid demo card](assets/spacemaid.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Maid Suite**
+> **Role:** Spatial audio processor
+> **Status:** ✅ Production
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+A spatial processor covering depth, width, and reverb placement with the same minimal-decisions UX as the rest of the Maid Suite.
 
-Spatial processing concept
+## Overview
+SpaceMaid is the space designer of the Maid Suite. It wraps stereo widening, depth control, and algorithmic reverb sends into a single panel so producers can place a source in a room without negotiating five separate plugins.
 
-## Why it belongs in this repository
+Mono compatibility and phase integrity are treated as first-class concerns — widening never trades off bass centering or mono translation.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **SpaceMaid** is, what kind of reader it suits, and where to go next.
+## Core features
+- Haas / mid-side stereo widening with mono-safety metering
+- Depth control via filtered early reflections
+- Algorithmic reverb with pre-delay, size, and damping
+- Wet / dry balance with integrated gain matching
 
-## What to look for
+## Typical workflows
+- Placing vocals in a defined perceptual room
+- Widening pads and synths while keeping the bass mono
+- Adding depth to percussion without smearing transients
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/SpaceMaid](https://github.com/GareBear99/SpaceMaid)
+- **Latest release:** [https://github.com/GareBear99/SpaceMaid/releases/latest](https://github.com/GareBear99/SpaceMaid/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [BassMaid](https://github.com/GareBear99/BassMaid)
+- [MixMaid](https://github.com/GareBear99/MixMaid)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/SpaceMaid](https://github.com/GareBear99/SpaceMaid)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **SpaceMaid** inside the TizWildin Entertainment HUB ecosystem._

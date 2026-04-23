@@ -2,31 +2,45 @@
 
 ![WhisperGate demo card](assets/whispergate.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Experimental**
+> **Role:** Procedural whispers and ritual atmospheres
+> **Status:** ✅ Production
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+Procedural whispers, ghost choirs, and ritual atmospheres controlled through an interactive geometry interface.
 
-Procedural whisper and ritual-choir atmosphere plugin concept
+## Overview
+WhisperGate generates whispered voices, ghost-choir beds, and ritual-sounding atmospheres. The defining feature is its control surface: a geometric diagram where points, edges, and regions map to voice density, pitch range, phrasing, and emotion.
 
-## Why it belongs in this repository
+The plugin is aimed at game sound designers, horror-adjacent producers, and film composers who need believable but unsettling vocal atmospheres without recording them by hand.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **WhisperGate** is, what kind of reader it suits, and where to go next.
+## Core features
+- Procedural whisper / choir generation
+- Interactive geometry UI for shaping voice behaviour
+- Density, pitch-range, phrasing, and mood macros
+- Stereo imaging tuned for headphones and cinematic mixes
 
-## What to look for
+## Typical workflows
+- Horror and psychological thriller sound design
+- Ritual-style ambient and dark cinematic
+- Game-engine streamable beds for dynamic scenes
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin)
+- **Latest release:** [https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin/releases/latest](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [AETHER](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer)
+- [PAP Forge](https://github.com/GareBear99/PAP-Forge-Audio)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **WhisperGate** inside the TizWildin Entertainment HUB ecosystem._

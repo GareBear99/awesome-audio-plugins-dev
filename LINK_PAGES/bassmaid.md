@@ -2,31 +2,47 @@
 
 ![BassMaid demo card](assets/bassmaid.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Maid Suite**
+> **Role:** Low-end processing toolkit
+> **Status:** ✅ Production
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+A focused low-end processor that enhances bass weight, controls sub-bass energy, and tightens kick / 808 interaction without the usual multiband headaches.
 
-Bass enhancement and low-end processing concept
+## Overview
+BassMaid is the low-end specialist in the Maid Suite. It combines harmonic enhancement, dynamic low-band control, and mono-management into a compact tool producers can drop on a bass bus to dial in the final sub without a chain of six plugins.
 
-## Why it belongs in this repository
+The intent is to keep decisions simple where they should be simple — sub level, weight, tightness — while still exposing the parameters that matter when mixing.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **BassMaid** is, what kind of reader it suits, and where to go next.
+## Core features
+- Sub-bass enhancement with tuned harmonic generation
+- Low-band dynamic shaping for tight kick / 808 relationships
+- Mono-summing below an adjustable cutoff
+- Gain-matched bypass for honest A/B evaluation
 
-## What to look for
+## Typical workflows
+- Tightening kick plus 808 interaction in trap and drill
+- Adding speaker-audible weight to a sub-heavy mix
+- Cleaning up mono compatibility for streaming masters
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/BassMaid](https://github.com/GareBear99/BassMaid)
+- **Latest release:** [https://github.com/GareBear99/BassMaid/releases/latest](https://github.com/GareBear99/BassMaid/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [SpaceMaid](https://github.com/GareBear99/SpaceMaid)
+- [GlueMaid](https://github.com/GareBear99/GlueMaid)
+- [MixMaid](https://github.com/GareBear99/MixMaid)
+- [ChainMaid](https://github.com/GareBear99/ChainMaid)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/BassMaid](https://github.com/GareBear99/BassMaid)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **BassMaid** inside the TizWildin Entertainment HUB ecosystem._

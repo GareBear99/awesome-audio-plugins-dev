@@ -2,31 +2,45 @@
 
 ![FreeSampler demo card](assets/freesampler.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Experimental**
+> **Role:** Lightweight high-performance sampler
+> **Status:** 🚧 Dev
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+A lightweight, high-performance free sampler plugin aimed at producers who want the core 80 % of a commercial sampler with none of the overhead.
 
-Lightweight sampler plugin project
+## Overview
+FreeSampler is the sampler project of the TizWildin ecosystem. The v0.3 line is explicitly a development release — the architecture is stable enough to ship, and the goal is to iterate toward a fully playable free sampler.
 
-## Why it belongs in this repository
+The plugin loads common audio files, maps them across keys, and exposes the parameters producers need for day-to-day sampling without burying them in menus.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **FreeSampler** is, what kind of reader it suits, and where to go next.
+## Core features
+- Drag-and-drop audio file loading
+- Keyboard mapping with configurable root key
+- Basic envelope and filter stages
+- Light CPU footprint suitable for many simultaneous instances
 
-## What to look for
+## Typical workflows
+- Quick one-shot layering in beat-making
+- Prototype sampling for sound designers
+- Free reference sampler for teaching sampler fundamentals
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/FreeSampler_v0.3](https://github.com/GareBear99/FreeSampler_v0.3)
+- **Latest release:** [https://github.com/GareBear99/FreeSampler_v0.3/releases/latest](https://github.com/GareBear99/FreeSampler_v0.3/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [Instrudio](https://github.com/GareBear99/Instrudio)
+- [RiftWave Suite](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/FreeSampler_v0.3](https://github.com/GareBear99/FreeSampler_v0.3)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **FreeSampler** inside the TizWildin Entertainment HUB ecosystem._

@@ -1,21 +1,37 @@
 # Link Pages Directory
 
-A browsable directory of deeper landing pages for the main README entries. Each page includes a summary, a visible preview image, and the official outbound link.
+A browsable directory of deeper landing pages for the main README entries. Each page includes a summary, visible preview image, official outbound link, and a technical feature / workflow breakdown.
 
-## Featured ecosystem
+## TizWildin Entertainment HUB ecosystem
 
-- [FreeEQ8](freeeq8.md) — Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis
-- [PaintMask](paintmask.md) — Paint-driven audio processing and visual interaction concept
-- [RiftWave Suite](riftwave-suite.md) — Modular synth and waveform-focused plugin ecosystem
-- [WURP](wurp.md) — Experimental sound-design engine focused on motion, formant behavior, and destructive coloration
-- [AETHER](aether.md) — Choir and atmosphere designer for cinematic and ambient sound shaping
-- [WhisperGate](whispergate.md) — Procedural whisper and ritual-choir atmosphere plugin concept
-- [Therum](therum.md) — Free wavetable synth project
-- [FreeSampler](freesampler.md) — Lightweight sampler plugin project
-- [MixMaid](mixmaid.md) — Mixing utility toolkit
-- [BassMaid](bassmaid.md) — Bass enhancement and low-end processing concept
-- [SpaceMaid](spacemaid.md) — Spatial processing concept
-- [GlueMaid](gluemaid.md) — Glue / cohesion mix-bus processor concept
+Hub repository: [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB) · Live dashboard: [garebear99.github.io/TizWildinEntertainmentHUB](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+
+### 🥇 Flagship
+- [FreeEQ8](freeeq8.md) — Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and a 4096-point spectrum analyzer
+- [Therum](therum.md) — Flagship free wavetable synthesizer with visual waveform editing and deep modulation
+
+### 🎹 Instruments
+- [Instrudio](instrudio.md) — Ten-instrument cross-platform ecosystem with hybrid HTML/plugin architecture
+- [XyloCore](xylocore.md) — Playable xylophone / tuned-percussion instrument with velocity-mapped samples
+
+### 🧹 Maid Suite
+- [BassMaid](bassmaid.md) — Bass enhancement and low-end processing
+- [SpaceMaid](spacemaid.md) — Spatial audio, depth, width, reverb
+- [GlueMaid](gluemaid.md) — Mix bus glue and cohesion processor
+- [MixMaid](mixmaid.md) — Real-time spectral balance and mix correction
+- [ChainMaid](chainmaid.md) — Sidechain ducking and pumping plugin
+
+### 🔊 Sound Design
+- [RiftWave Suite](riftwave-suite.md) — Modular synth + waveform synthesis (RiftSynth + WaveForm)
+
+### 🧪 Experimental
+- [PaintMask](paintmask.md) — Paint-driven audio / MIDI pattern generation
+- [WURP](wurp.md) — Toxic Motion Engine — formant motion, corrosive saturation, elastic pitch
+- [AETHER](aether.md) — Procedural choir and atmosphere designer
+- [WhisperGate](whispergate.md) — Procedural whispers and ritual atmospheres via geometry UI
+- [FreeSampler](freesampler.md) — Lightweight high-performance sampler plugin
+- [VF-PlexLab](vf-plexlab.md) — VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester
+- [PAP-Forge-Audio](pap-forge-audio.md) — Procedural Autonomous Plugins runtime for prompt-driven plugin projects
 
 ## Equalizers
 
@@ -144,4 +160,3 @@ A browsable directory of deeper landing pages for the main README entries. Each 
 - [Cymatics Free Download Vault](cymatics-free-download-vault.md) — Rotating collection of free packs and production resources.
 - [Stickz](stickz.md) — Free and commercial sample content.
 - [Free Dark Piano Sound Kit](free-dark-piano-sound-kit.md) — Dark and cinematic piano loops and one-shots.
-

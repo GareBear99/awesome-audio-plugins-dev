@@ -2,31 +2,45 @@
 
 ![MixMaid demo card](assets/mixmaid.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Maid Suite**
+> **Role:** Spectral balance and mix correction
+> **Status:** ✅ Production
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+Real-time spectral balance and mix-correction assistant — gently guides a mix toward a balanced tonal distribution, proper headroom, and controlled dynamics.
 
-Mixing utility toolkit
+## Overview
+MixMaid is a correction-oriented assistant that continuously evaluates a mix for spectral balance, dynamic consistency, and headroom.
 
-## Why it belongs in this repository
+It applies gentle corrective moves rather than aggressive processing, making it suitable for a late-stage mixing insert or a pre-mastering reference tool.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **MixMaid** is, what kind of reader it suits, and where to go next.
+## Core features
+- Real-time spectral analysis against a reference curve
+- Gentle multiband correction guided by the analysis
+- Dynamic-range monitoring with loudness and crest metering
+- Headroom and ceiling warnings
 
-## What to look for
+## Typical workflows
+- Late-stage mix balancing before mastering
+- Teaching context: showing students where the mix leans
+- Reality check after long mixing sessions when ears are tired
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/MixMaid](https://github.com/GareBear99/MixMaid)
+- **Latest release:** [https://github.com/GareBear99/MixMaid/releases/latest](https://github.com/GareBear99/MixMaid/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [GlueMaid](https://github.com/GareBear99/GlueMaid)
+- [FreeEQ8](https://github.com/GareBear99/FreeEQ8)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/MixMaid](https://github.com/GareBear99/MixMaid)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **MixMaid** inside the TizWildin Entertainment HUB ecosystem._

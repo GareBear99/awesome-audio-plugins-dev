@@ -2,31 +2,45 @@
 
 ![RiftWave Suite demo card](assets/riftwave-suite.png)
 
-> **Category:** Featured ecosystem  
-> **Type:** Ecosystem project
+> **TizWildin Entertainment HUB — Sound Design**
+> **Role:** Modular synth + waveform synthesis
+> **Status:** ⚠️ Beta
+> **Formats:** VST3 · AU
+> **License:** FREE (open source)
 
-## Summary
+## Tagline
+A modular synthesis + waveform-synthesis plugin suite — RiftSynth and WaveForm in Lite and Pro editions — aimed at deep sound design.
 
-Modular synth and waveform-focused plugin ecosystem
+## Overview
+RiftWave Suite is a two-engine synthesis system: RiftSynth is the modular patch-oriented synth, and WaveForm is the waveform-sculpting engine. The suite ships in Lite and Pro editions; the Lite edition is free and GitHub-distributed.
 
-## Why it belongs in this repository
+The architecture is designed to let producers switch between subtractive, additive, and wavetable thinking without leaving the suite.
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **RiftWave Suite** is, what kind of reader it suits, and where to go next.
+## Core features
+- RiftSynth modular engine with patchable modulation
+- WaveForm waveform-sculpting engine for additive / wavetable hybrids
+- Shared preset format across Lite and Pro
+- Open source Lite edition available on GitHub
 
-## What to look for
+## Typical workflows
+- Sound design for sync, games, and sample libraries
+- Modular-style patching inside a DAW session
+- Creative wavetable / additive hybrids
 
-- Use this page as the human-readable landing spot before sending readers to the repo or product page.
-- Keep this entry focused on what makes the project distinct inside the wider TizWildin ecosystem.
-- Upgrade the preview later with real screenshots, UI renders, or audio demo captures.
+## Compatibility
+macOS (Intel + Apple Silicon), Windows 10+
 
-## Best for
+## Source & downloads
+- **Repo / source:** [https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite)
+- **Latest release:** [https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite/releases/latest](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite/releases/latest)
+- **HUB dashboard:** [https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/)
+- **HUB repo:** [https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-- Readers who want context before clicking away from the list
-- Producers comparing options in **Featured ecosystem**
-- Developers researching the wider plugin and DSP ecosystem
-- Anyone browsing the repo as a credible reference hub
+## Related projects
+- [TizWildin HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
+- [Therum](https://github.com/GareBear99/Therum_JUCE-Plugin)
+- [FreeSampler](https://github.com/GareBear99/FreeSampler_v0.3)
 
-## Official link
+---
 
-- **Website / repo:** [https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite)
-
+_This page is part of the Awesome Audio Plugins & Dev link-page set. It is the human-readable landing spot for **RiftWave Suite** inside the TizWildin Entertainment HUB ecosystem._
