@@ -1,7 +1,5 @@
 # FreeSampler
 
-![FreeSampler demo card](assets/freesampler.png)
-
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** Lightweight high-performance sampler
 > **Status:** 🚧 Dev

@@ -1,7 +1,5 @@
 # BassMaid
 
-![BassMaid demo card](assets/bassmaid.png)
-
 > **TizWildin Entertainment HUB — Maid Suite**
 > **Role:** Low-end processing toolkit
 > **Status:** ✅ Production

@@ -1,7 +1,5 @@
 # WhisperGate
 
-![WhisperGate demo card](assets/whispergate.png)
-
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** Procedural whispers and ritual atmospheres
 > **Status:** ✅ Production

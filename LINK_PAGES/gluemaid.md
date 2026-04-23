@@ -1,7 +1,5 @@
 # GlueMaid
 
-![GlueMaid demo card](assets/gluemaid.png)
-
 > **TizWildin Entertainment HUB — Maid Suite**
 > **Role:** Mix-bus glue and cohesion
 > **Status:** ✅ Production

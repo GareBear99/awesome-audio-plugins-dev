@@ -1,6 +1,6 @@
 # FreeEQ8
 
-![FreeEQ8 demo card](assets/freeeq8.png)
+![FreeEQ8 in Ableton Live showing the 8-band parametric EQ, dynamic section, and controls](assets/freeeq8-2.png)
 
 > **TizWildin Entertainment HUB — Flagship · Equalizers**
 > **Role:** Free open-source 8-band parametric EQ

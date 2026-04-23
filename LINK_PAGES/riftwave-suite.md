@@ -1,7 +1,5 @@
 # RiftWave Suite
 
-![RiftWave Suite demo card](assets/riftwave-suite.png)
-
 > **TizWildin Entertainment HUB — Sound Design**
 > **Role:** Modular synth + waveform synthesis
 > **Status:** ⚠️ Beta

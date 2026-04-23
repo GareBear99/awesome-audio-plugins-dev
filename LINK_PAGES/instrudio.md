@@ -1,7 +1,5 @@
 # Instrudio
 
-![Instrudio demo card](assets/instrudio.png)
-
 > **TizWildin Entertainment HUB — Instruments**
 > **Role:** Ten-instrument cross-platform instrument ecosystem
 > **Status:** ⚠️ Beta

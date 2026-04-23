@@ -1,7 +1,5 @@
 # Therum
 
-![Therum demo card](assets/therum.png)
-
 > **TizWildin Entertainment HUB — Flagship**
 > **Role:** Free wavetable synthesizer
 > **Status:** ✅ Production

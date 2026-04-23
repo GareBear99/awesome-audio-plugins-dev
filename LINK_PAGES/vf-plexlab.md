@@ -1,7 +1,5 @@
 # VF-PlexLab
 
-![VF-PlexLab demo card](assets/vf-plexlab.png)
-
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** VocalForge PersonaPlex Lab
 > **Status:** 🚧 Dev

@@ -40,6 +40,8 @@ PLUGINS = [
         "role": "Free open-source 8-band parametric EQ",
         "status": "Production",
         "formats": ["VST3", "AU", "Standalone"],
+        "image": "freeeq8.png",
+        "image_alt": "FreeEQ8 in Ableton Live showing the 8-band parametric EQ, dynamic section, and controls",
         "tagline": "A professional-grade, fully open-source 8-band parametric EQ built with JUCE — linear phase, dynamic EQ, match EQ, per-band drive, M/S processing, oversampling, and a 4096-point real-time spectrum analyzer.",
         "overview": (
             "FreeEQ8 is engineered as the reference equalizer inside the TizWildin ecosystem. It is "
@@ -477,6 +479,8 @@ PLUGINS = [
         "role": "Choir and atmosphere designer",
         "status": "Beta",
         "formats": ["VST3", "AU"],
+        "image": "aether.png",
+        "image_alt": "AETHER Ethereal Choir Atmosphere Designer GUI showing chant, temple, halo, drone, motion, and light/dark controls",
         "tagline": "A choir and atmosphere designer for cinematic sound design — procedural choirs, pads, and evolving textures.",
         "overview": (
             "AETHER is an atmosphere and choir designer built for cinematic, ambient, and game "
@@ -681,11 +685,15 @@ def page_for(plugin: dict) -> str:
     compat = plugin["compat"]
     related = "\n".join(f"- [{label}]({url})" for label, url in plugin["related"])
 
+    # Only embed an image when a real screenshot is available; otherwise omit
+    # the image line so readers don't see a broken icon.
+    image = plugin.get("image")
+    image_alt = plugin.get("image_alt", f"{name} screenshot")
+    image_md = f"![{image_alt}](assets/{image})\n\n" if image else ""
+
     return f"""# {name}
 
-![{name} demo card](assets/{slug}.png)
-
-> **TizWildin Entertainment HUB \u2014 {category}**
+{image_md}> **TizWildin Entertainment HUB \u2014 {category}**
 > **Role:** {role}
 > **Status:** {status}
 > **Formats:** {formats}
@@ -724,11 +732,14 @@ _This page is part of the Awesome Audio Plugins & Dev link-page set. It is the h
 def write_all() -> None:
     for p in PLUGINS:
         (LINK_DIR / f"{p['slug']}.md").write_text(page_for(p), encoding="utf-8")
-    # Duplicate FreeEQ8 page used from the Equalizers section.
-    eq_page = page_for(PLUGINS[0]).replace(
+    # Duplicate FreeEQ8 page used from the Equalizers section; swap the image
+    # reference so it points at the category-specific asset file.
+    eq_page = page_for(PLUGINS[0])
+    eq_page = eq_page.replace(
         "TizWildin Entertainment HUB \u2014 Flagship",
         "TizWildin Entertainment HUB \u2014 Flagship \u00b7 Equalizers",
     )
+    eq_page = eq_page.replace("assets/freeeq8.png", "assets/freeeq8-2.png")
     (LINK_DIR / "freeeq8-2.md").write_text(eq_page, encoding="utf-8")
     print(f"wrote {len(PLUGINS) + 1} pages to {LINK_DIR}")
 

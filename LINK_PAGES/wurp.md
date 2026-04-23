@@ -1,7 +1,5 @@
 # WURP
 
-![WURP demo card](assets/wurp.png)
-
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** Toxic Motion Engine - formant, saturation, elastic pitch
 > **Status:** ✅ Production

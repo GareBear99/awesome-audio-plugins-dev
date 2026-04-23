@@ -1,7 +1,5 @@
 # MixMaid
 
-![MixMaid demo card](assets/mixmaid.png)
-
 > **TizWildin Entertainment HUB — Maid Suite**
 > **Role:** Spectral balance and mix correction
 > **Status:** ✅ Production

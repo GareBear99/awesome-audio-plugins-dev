@@ -1,7 +1,5 @@
 # XyloCore
 
-![XyloCore demo card](assets/xylocore.png)
-
 > **TizWildin Entertainment HUB — Instruments**
 > **Role:** Playable xylophone / tuned-percussion instrument
 > **Status:** ⚠️ Beta

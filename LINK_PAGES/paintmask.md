@@ -1,7 +1,5 @@
 # PaintMask
 
-![PaintMask demo card](assets/paintmask.png)
-
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** Paint-driven audio / MIDI processor
 > **Status:** ⚠️ Beta

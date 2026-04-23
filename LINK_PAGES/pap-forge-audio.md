@@ -1,7 +1,5 @@
 # PAP-Forge-Audio
 
-![PAP-Forge-Audio demo card](assets/pap-forge-audio.png)
-
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** Procedural Autonomous Plugins runtime
 > **Status:** 🚧 Dev

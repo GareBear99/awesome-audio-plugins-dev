@@ -1,6 +1,6 @@
 # AETHER
 
-![AETHER demo card](assets/aether.png)
+![AETHER Ethereal Choir Atmosphere Designer GUI showing chant, temple, halo, drone, motion, and light/dark controls](assets/aether.png)
 
 > **TizWildin Entertainment HUB — Experimental**
 > **Role:** Choir and atmosphere designer

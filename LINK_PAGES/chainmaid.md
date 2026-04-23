@@ -1,7 +1,5 @@
 # ChainMaid
 
-![ChainMaid demo card](assets/chainmaid.png)
-
 > **TizWildin Entertainment HUB — Maid Suite**
 > **Role:** Sidechain ducking and pumping
 > **Status:** ✅ Production

@@ -1,7 +1,5 @@
 # SpaceMaid
 
-![SpaceMaid demo card](assets/spacemaid.png)
-
 > **TizWildin Entertainment HUB — Maid Suite**
 > **Role:** Spatial audio processor
 > **Status:** ✅ Production
