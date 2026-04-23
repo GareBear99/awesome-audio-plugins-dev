@@ -131,22 +131,44 @@ A project does **not** belong here just because it exists.
 
 ### [TizWildin Entertainment HUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
 
-A growing ecosystem of experimental audio plugins, DSP tools, synth projects, and sound resources centered around open-source distribution, plugin development, and creator-facing tooling.
+A growing ecosystem of experimental audio plugins, DSP tools, synth projects, and sound resources centered around open-source distribution, plugin development, and creator-facing tooling. Live dashboard: [garebear99.github.io/TizWildinEntertainmentHUB](https://garebear99.github.io/TizWildinEntertainmentHUB/).
 
+#### 🥇 Flagship
 | Project | Summary |
 |---|---|
 | [**FreeEQ8**](LINK_PAGES/freeeq8.md) | Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis · [Official site / repo](https://github.com/GareBear99/FreeEQ8) |
-| [**PaintMask**](LINK_PAGES/paintmask.md) | Paint-driven audio processing and visual interaction concept · [Official site / repo](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) |
-| [**RiftWave Suite**](LINK_PAGES/riftwave-suite.md) | Modular synth and waveform-focused plugin ecosystem · [Official site / repo](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) |
-| [**WURP**](LINK_PAGES/wurp.md) | Experimental sound-design engine focused on motion, formant behavior, and destructive coloration · [Official site / repo](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) |
-| [**AETHER**](LINK_PAGES/aether.md) | Choir and atmosphere designer for cinematic and ambient sound shaping · [Official site / repo](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) |
-| [**WhisperGate**](LINK_PAGES/whispergate.md) | Procedural whisper and ritual-choir atmosphere plugin concept · [Official site / repo](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) |
 | [**Therum**](LINK_PAGES/therum.md) | Free wavetable synth project · [Official site / repo](https://github.com/GareBear99/Therum_JUCE-Plugin) |
-| [**FreeSampler**](LINK_PAGES/freesampler.md) | Lightweight sampler plugin project · [Official site / repo](https://github.com/GareBear99/FreeSampler_v0.3) |
-| [**MixMaid**](LINK_PAGES/mixmaid.md) | Mixing utility toolkit · [Official site / repo](https://github.com/GareBear99/MixMaid) |
+
+#### 🎹 Instruments
+| Project | Summary |
+|---|---|
+| [**Instrudio**](https://github.com/GareBear99/Instrudio) | Ten-instrument cross-platform instrument ecosystem with hybrid HTML/plugin architecture · [Official site / repo](https://github.com/GareBear99/Instrudio) |
+| [**XyloCore**](https://github.com/GareBear99/XyloCore) | Playable xylophone / tuned-percussion instrument with velocity-mapped samples · [Official site / repo](https://github.com/GareBear99/XyloCore) |
+
+#### 🧹 Maid Suite
+| Project | Summary |
+|---|---|
 | [**BassMaid**](LINK_PAGES/bassmaid.md) | Bass enhancement and low-end processing concept · [Official site / repo](https://github.com/GareBear99/BassMaid) |
 | [**SpaceMaid**](LINK_PAGES/spacemaid.md) | Spatial processing concept · [Official site / repo](https://github.com/GareBear99/SpaceMaid) |
 | [**GlueMaid**](LINK_PAGES/gluemaid.md) | Glue / cohesion mix-bus processor concept · [Official site / repo](https://github.com/GareBear99/GlueMaid) |
+| [**MixMaid**](LINK_PAGES/mixmaid.md) | Mixing utility toolkit · [Official site / repo](https://github.com/GareBear99/MixMaid) |
+| [**ChainMaid**](https://github.com/GareBear99/ChainMaid) | Sidechain ducking and pumping effects · [Official site / repo](https://github.com/GareBear99/ChainMaid) |
+
+#### 🔊 Sound Design
+| Project | Summary |
+|---|---|
+| [**RiftWave Suite**](LINK_PAGES/riftwave-suite.md) | Modular synth and waveform-focused plugin ecosystem · [Official site / repo](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) |
+
+#### 🧪 Experimental
+| Project | Summary |
+|---|---|
+| [**PaintMask**](LINK_PAGES/paintmask.md) | Paint-driven audio processing and visual interaction concept · [Official site / repo](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) |
+| [**WURP**](LINK_PAGES/wurp.md) | Experimental sound-design engine focused on motion, formant behavior, and destructive coloration · [Official site / repo](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) |
+| [**AETHER**](LINK_PAGES/aether.md) | Choir and atmosphere designer for cinematic and ambient sound shaping · [Official site / repo](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) |
+| [**WhisperGate**](LINK_PAGES/whispergate.md) | Procedural whisper and ritual-choir atmosphere plugin concept · [Official site / repo](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) |
+| [**FreeSampler**](LINK_PAGES/freesampler.md) | Lightweight sampler plugin project · [Official site / repo](https://github.com/GareBear99/FreeSampler_v0.3) |
+| [**VF-PlexLab**](https://github.com/GareBear99/VF-PlexLab) | VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation · [Official site / repo](https://github.com/GareBear99/VF-PlexLab) |
+| [**PAP-Forge-Audio**](https://github.com/GareBear99/PAP-Forge-Audio) | Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent · [Official site / repo](https://github.com/GareBear99/PAP-Forge-Audio) |
 
 ## Equalizers
 
