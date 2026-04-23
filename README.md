@@ -262,6 +262,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 
 ## Utility / Metering
 
+- [**MeterMaid**](https://github.com/GareBear99/MeterMaid) — Free, open-source single-plugin mastering + metering suite. ITU-R BS.1770-4 K-weighted loudness (momentary / short-term / integrated LUFS + LRA), 4× oversampled true peak (per-channel + summed), RMS, correlation, stereo width, crest/PSR/PLR, spectrum, log-frequency spectrogram, chromagram, goniometer, vectorscope, loudness histogram, and an eight-spoke octagonal target radar. MIT licensed. [Official site / repo](https://github.com/GareBear99/MeterMaid)
 - [**SPAN**](LINK_PAGES/span.md) — Real-time FFT spectrum analyzer. [Official site / repo](https://www.voxengo.com/product/span/)
 - [**Youlean Loudness Meter**](LINK_PAGES/youlean-loudness-meter.md) — LUFS loudness metering. [Official site / repo](https://youlean.co/youlean-loudness-meter/)
 - [**MLoudnessAnalyzer**](LINK_PAGES/mloudnessanalyzer.md) — Loudness analyzer. [Official site / repo](https://www.meldaproduction.com/MLoudnessAnalyzer)
