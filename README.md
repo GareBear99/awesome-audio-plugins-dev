@@ -13,7 +13,7 @@
 <a href="https://buymeacoffee.com/garebear99"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 <a href="https://ko-fi.com/luciferai"><img src="https://img.shields.io/badge/Ko--fi-ff5e5b?style=flat&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 
-> 🎧 [Awesome Audio Lists](https://github.com/GareBear99/awesome-audio-lists) — even more audio lists, submission routes, and promotional directories
+🎧 [Awesome Audio Lists](https://github.com/GareBear99/awesome-audio-lists) — even more audio lists, submission routes, and promotional directories
 
 A curated collection of **free audio plugins**, **open-source DSP tools**, **plugin development frameworks**, and **audio engineering resources** across **VST3, AU, CLAP, and LV2**.
 
