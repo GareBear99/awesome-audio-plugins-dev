@@ -5,6 +5,8 @@
 > 🎁 [Free Packs & Samples](#tizwildin-free-sample-packs) — jump to free packs & samples
 >
 > 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — (FREE) Awesome Audio Dev List
+>
+> 🎧 [Awesome Audio Lists](https://github.com/GareBear99/awesome-audio-lists) — even more audio lists, submission routes, and promotional directories
 
 #  👾 Awesome Audio Plugins & Dev
 
