@@ -1,0 +1,40 @@
+{
+  "canonical_start_here": "https://github.com/GareBear99/awesome-audio-plugins-dev",
+  "public_router": "https://garebear99.github.io/TizWildinEntertainmentHUB/",
+  "root_hub": "https://github.com/GareBear99/awesome-audio-lists",
+  "satellites": [
+    {
+      "name": "awesome-audio-plugins-dev",
+      "role": "Start Here plugin/dev list",
+      "url": "https://github.com/GareBear99/awesome-audio-plugins-dev"
+    },
+    {
+      "name": "awesome-music-platforms",
+      "role": "music distribution, beat selling, sample packs, promotion, sync, storefronts",
+      "url": "https://github.com/GareBear99/awesome-music-platforms"
+    },
+    {
+      "name": "awesome-python-audio-science",
+      "role": "Python audio science, DSP, MIR, datasets, notebooks, research tooling",
+      "url": "https://github.com/GareBear99/awesome-python-audio-science"
+    }
+  ],
+  "project_anchors": [
+    {
+      "name": "FreeEQ8",
+      "url": "https://github.com/GareBear99/FreeEQ8"
+    },
+    {
+      "name": "FreeVox8",
+      "url": "https://github.com/GareBear99/FreeVox8"
+    },
+    {
+      "name": "TizWildinEntertainmentHUB",
+      "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+    },
+    {
+      "name": "TizWildin-Release-Vault",
+      "url": "https://github.com/GareBear99/TizWildin-Release-Vault"
+    }
+  ]
+}

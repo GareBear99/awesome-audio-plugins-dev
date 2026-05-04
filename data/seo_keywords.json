@@ -1,0 +1,23 @@
+{
+  "primary": [
+    "free audio plugins",
+    "open source audio plugins",
+    "audio plugin development",
+    "JUCE plugin development",
+    "VST3 plugins",
+    "audio DSP resources"
+  ],
+  "ecosystem": [
+    "TizWildin plugins",
+    "GareBear99 audio plugins",
+    "FreeEQ8",
+    "FreeVox8",
+    "deconstructed loops router",
+    "TizWildin sample packs"
+  ],
+  "satellite_lists": [
+    "awesome music platforms",
+    "awesome python audio science",
+    "awesome audio lists"
+  ]
+}

@@ -1,6 +1,6 @@
-> 🎛️ Part of the [TizWildin Plugin Ecosystem](https://garebear99.github.io/TizWildinEntertainmentHUB/) — 19 free audio plugins with a live update dashboard.
+> 🎛️ Part of the [TizWildin Plugin Ecosystem](https://garebear99.github.io/TizWildinEntertainmentHUB/) — 20+ free audio plugins, creator tools, lists, deconstructed-loop routers, and release surfaces.
 >
-> [FreeEQ8](https://github.com/GareBear99/FreeEQ8) · [XyloCore](https://github.com/GareBear99/XyloCore) · [Instrudio](https://github.com/GareBear99/Instrudio) · [Therum](https://github.com/GareBear99/Therum_JUCE-Plugin) · [BassMaid](https://github.com/GareBear99/BassMaid) · [SpaceMaid](https://github.com/GareBear99/SpaceMaid) · [GlueMaid](https://github.com/GareBear99/GlueMaid) · [MixMaid](https://github.com/GareBear99/MixMaid) · [MultiMaid](https://github.com/GareBear99/MultiMaid) · [MeterMaid](https://github.com/GareBear99/MeterMaid) · [ChainMaid](https://github.com/GareBear99/ChainMaid) · [PaintMask](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) · [WURP](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) · [AETHER](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) · [WhisperGate](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) · [RiftWave](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) · [FreeSampler](https://github.com/GareBear99/FreeSampler_v0.3) · [VF-PlexLab](https://github.com/GareBear99/VF-PlexLab) · [PAP-Forge-Audio](https://github.com/GareBear99/PAP-Forge-Audio)
+> [FreeEQ8](https://github.com/GareBear99/FreeEQ8) · [FreeVox8](https://github.com/GareBear99/FreeVox8) · [XyloCore](https://github.com/GareBear99/XyloCore) · [Instrudio](https://github.com/GareBear99/Instrudio) · [Therum](https://github.com/GareBear99/Therum_JUCE-Plugin) · [BassMaid](https://github.com/GareBear99/BassMaid) · [SpaceMaid](https://github.com/GareBear99/SpaceMaid) · [GlueMaid](https://github.com/GareBear99/GlueMaid) · [MixMaid](https://github.com/GareBear99/MixMaid) · [MultiMaid](https://github.com/GareBear99/MultiMaid) · [MeterMaid](https://github.com/GareBear99/MeterMaid) · [ChainMaid](https://github.com/GareBear99/ChainMaid) · [PaintMask](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) · [WURP](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) · [AETHER](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) · [WhisperGate](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) · [RiftWave](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) · [FreeSampler](https://github.com/GareBear99/FreeSampler_v0.3) · [VF-PlexLab](https://github.com/GareBear99/VF-PlexLab) · [PAP-Forge-Audio](https://github.com/GareBear99/PAP-Forge-Audio)
 >
 > 🎧 **SoundCloud:** [TizWildin on SoundCloud](https://soundcloud.com/tizwildin) — original music, remixes, VIP mixes, experimental drops, and underground releases.
 >
@@ -24,6 +24,22 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 🎧 [Awesome Audio Lists](https://github.com/GareBear99/awesome-audio-lists) — even more audio lists, submission routes, and promotional directories
+
+## Start Here — GareBear99 Audio Plugin Dev Map
+
+**This repo is the default Start Here list for the GareBear99 / TizWildin audio-development ecosystem.** Use it first when you want free audio plugins, open-source DSP references, JUCE/VST3/AU/CLAP/LV2 development resources, sample-pack links, and the router paths into the larger public `.io` ecosystem.
+
+| Path | Use it for |
+|---|---|
+| [TizWildinEntertainmentHUB public .io router](https://garebear99.github.io/TizWildinEntertainmentHUB/) | public entry point for plugins, lists, packs, deconstructed loops, visualizers, and release surfaces |
+| [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists) | root hub for audio list discovery and submission targets |
+| [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) | **Start Here** plugin/dev list — this repo |
+| [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) | music distribution, beat selling, sample packs, sync licensing, promotion, storefronts, analytics |
+| [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science) | Python audio science, MIR, DSP, datasets, notebooks, research tooling |
+| [TizWildin-Release-Vault](https://github.com/GareBear99/TizWildin-Release-Vault) | official releases, distributed tracks, catalog proof, and release routing |
+
+> Router note: the `.io` HUB is the public front door; this repo is the technical Start Here list behind the plugin/dev lane.
+
 
 A curated collection of **free audio plugins**, **open-source DSP tools**, **plugin development frameworks**, and **audio engineering resources** across **VST3, AU, CLAP, and LV2**.
 
@@ -52,11 +68,15 @@ The goal is **not** to become the biggest list. The goal is to stay **useful, re
 
 ## Start here
 
+- **Start Here ecosystem alignment** → [docs/START_HERE_ECOSYSTEM.md](docs/START_HERE_ECOSYSTEM.md)
 - **Free EQ plugins and open-source equalizers** → [EQUALIZERS.md](EQUALIZERS.md)
+- **Spectral vocoder / FreeVox8 anchor** → [LINK_PAGES/freevox8.md](LINK_PAGES/freevox8.md)
 - **Audio plugin development frameworks and APIs** → [PLUGIN_FRAMEWORKS_AND_APIS.md](PLUGIN_FRAMEWORKS_AND_APIS.md)
 - **Audio DSP learning resources** → [DSP_LEARNING_RESOURCES.md](DSP_LEARNING_RESOURCES.md)
 - **Open-source DSP plugin repositories** → [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md)
 - **Sample packs and sound resources** → [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md)
+- **Python audio science satellite list** → [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science)
+- **Music platforms satellite list** → [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms)
 - **FAQ** → [Q_AND_A_FAQ.md](Q_AND_A_FAQ.md)
 - **Community submissions** → [COMMUNITY_SUBMISSIONS.md](COMMUNITY_SUBMISSIONS.md)
 - **Link pages directory** → [LINK_PAGES/README.md](LINK_PAGES/README.md)
@@ -82,6 +102,7 @@ It deliberately avoids:
 | Category | Starting Point |
 |---|---|
 | Equalizers | [FreeEQ8](https://github.com/GareBear99/FreeEQ8) |
+| Spectral Vocoder | [FreeVox8](https://github.com/GareBear99/FreeVox8) |
 | Plugin Frameworks | [JUCE](https://juce.com) |
 | DSP Learning | [The Scientist and Engineer's Guide to DSP](http://www.dspguide.com/) |
 | Open-Source DSP Repos | [Chowdhury DSP](https://github.com/Chowdhury-DSP) |
@@ -107,10 +128,11 @@ A project does **not** belong here just because it exists.
 
 ## Topics
 
-`free-vst-plugins` `audio-dsp` `open-source-audio` `vst3` `au` `clap` `lv2` `juce` `plugin-development` `music-production` `free-sample-packs` `audio-engineering` `synthesizer` `equalizer` `reverb` `compressor` `awesome-list`
+`free-vst-plugins` `audio-dsp` `open-source-audio` `vst3` `au` `clap` `lv2` `juce` `plugin-development` `music-production` `free-sample-packs` `audio-engineering` `synthesizer` `equalizer` `reverb` `compressor` `awesome-list` `audio-plugin-list` `python-audio` `scientific-audio` `music-platforms` `sample-pack-router` `deconstructed-loops` `tizwildin`
 
 ## Contents
 
+- [Start Here — GareBear99 Audio Plugin Dev Map](#start-here--garebear99-audio-plugin-dev-map)
 - [Why this repository exists](#why-this-repository-exists)
 - [Start here](#start-here)
 - [Scope](#scope)
@@ -150,6 +172,7 @@ A growing ecosystem of experimental audio plugins, DSP tools, synth projects, an
 | Project | Summary |
 |---|---|
 | [**FreeEQ8**](LINK_PAGES/freeeq8.md) | Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis · [Official site / repo](https://github.com/GareBear99/FreeEQ8) |
+| [**FreeVox8**](LINK_PAGES/freevox8.md) | Spectral vocoder, ghost resynthesis, and dynamic spectral masking plugin path for vocals, synths, drums, alien choirs, playable frozen textures, and experimental sound design · [Official site / repo](https://github.com/GareBear99/FreeVox8) |
 | [**Therum**](LINK_PAGES/therum.md) | Free wavetable synth project · [Official site / repo](https://github.com/GareBear99/Therum_JUCE-Plugin) |
 
 #### 🎹 Instruments
@@ -184,6 +207,16 @@ A growing ecosystem of experimental audio plugins, DSP tools, synth projects, an
 | [**FreeSampler**](LINK_PAGES/freesampler.md) | Lightweight sampler plugin project · [Official site / repo](https://github.com/GareBear99/FreeSampler_v0.3) |
 | [**VF-PlexLab**](LINK_PAGES/vf-plexlab.md) | VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation · [Official site / repo](https://github.com/GareBear99/VF-PlexLab) |
 | [**PAP-Forge-Audio**](LINK_PAGES/pap-forge-audio.md) | Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent · [Official site / repo](https://github.com/GareBear99/PAP-Forge-Audio) |
+
+## Ecosystem list network
+
+| List / Router | Role |
+|---|---|
+| [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists) | Root audio-list hub and submission/discovery router |
+| [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) | **Start Here** plugin/dev list and technical credibility anchor |
+| [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) | Artist platforms, distribution, beat selling, sample packs, sync licensing, promotion, analytics |
+| [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science) | Python audio science, DSP, MIR, datasets, research, notebooks, and plugin-testing tooling |
+| [TizWildinEntertainmentHUB public .io router](https://garebear99.github.io/TizWildinEntertainmentHUB/) | Public router for plugins, lists, deconstructed loops, packs, visuals, releases, and catalog surfaces |
 
 ## Equalizers
 

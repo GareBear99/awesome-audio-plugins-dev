@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#311052"/></linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#g)"/>
+  <circle cx="1080" cy="120" r="220" fill="#8b5cf6" opacity="0.22"/>
+  <circle cx="210" cy="520" r="260" fill="#06b6d4" opacity="0.18"/>
+  <text x="80" y="170" fill="#ffffff" font-family="Arial, sans-serif" font-size="72" font-weight="800">Awesome Audio Plugins &amp; Dev</text>
+  <text x="82" y="250" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="34">Start Here list for free plugins, DSP, JUCE, VST3, AU, CLAP, LV2</text>
+  <text x="82" y="320" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="30">GareBear99 / TizWildin Audio Discovery Network</text>
+  <text x="82" y="470" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">FreeEQ8 · FreeVox8 · HUB · Lists · Packs · Deconstructed Loops</text>
+</svg>
