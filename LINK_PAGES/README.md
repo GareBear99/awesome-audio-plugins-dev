@@ -160,3 +160,5 @@ Hub repository: [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWil
 - [Cymatics Free Download Vault](cymatics-free-download-vault.md) — Rotating collection of free packs and production resources.
 - [Stickz](stickz.md) — Free and commercial sample content.
 - [Free Dark Piano Sound Kit](free-dark-piano-sound-kit.md) — Dark and cinematic piano loops and one-shots.
+
+- [FreeVox8](freevox8.md) — spectral vocoder / ghost resynthesis plugin anchor.
