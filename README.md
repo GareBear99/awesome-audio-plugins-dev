@@ -320,6 +320,7 @@ See the full guide: [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLU
 - [**Airwindows**](LINK_PAGES/airwindows.md) — Large collection of experimental audio effects. [Official site / repo](https://github.com/airwindows/airwindows)
 - [**Chowdhury DSP**](LINK_PAGES/chowdhury-dsp.md) — Research-driven open-source effects and models. [Official site / repo](https://github.com/Chowdhury-DSP)
 - [**DISTRHO Ports**](LINK_PAGES/distrho-ports.md) — Plugins ported to Linux and LV2 ecosystems. [Official site / repo](https://github.com/DISTRHO/DISTRHO-Ports)
+- [**Pakku**](https://danielalves96.github.io/pakku-vst/) — Free, open-source multiband transient shaper for macOS and Windows. [Official site / repo](https://github.com/danielalves96/pakku-vst)
 - [**ZL-Audio Plugins**](LINK_PAGES/zl-audio-plugins.md) — Parametric EQ, compressor, and saturator projects. [Official site / repo](https://github.com/ZL-Audio)
 
 ## Multi-Effect Bundles
