@@ -33,11 +33,11 @@ These are development-stage projects. Replace placeholders once compiled UI scre
 | File | Source |
 |------|--------|
 | vital.png | https://vital.audio/presskit/ — download screenshot from press kit |
-| surge-xt.png | https://surge-synthesizer.github.io/screenshots/surge-xt.png (script) |
-| dexed.png | https://asb2m10.github.io/dexed/ — product image from user site |
+| surge-xt.png | https://surge-synthesizer.github.io/images/digital.png (script) |
+| dexed.png | https://asb2m10.github.io/dexed/ — old /img/dexed.png dead as of 2026-11-08; no full screenshot exists, local asset restored 2026-11-08 from the repo logo (assets/ui/dexed-logo.png) |
 | helm.png | https://tytel.org/helm/ — screenshot from homepage |
 | odin2.png | https://thewavewarden.com/odin2/ — product image |
-| ob-xd.png | https://github.com/reales/OB-Xd — screenshot from repo |
+| ob-xd.png | https://github.com/reales/OB-Xd — no screenshot in repo anymore (README-only as of 2026-11-08); local asset retained |
 | tal-noisemaker.png | https://tal-software.com/products/tal-noisemaker — product image |
 | tunefish4.png | https://github.com/paynebc/tunefish — Manual |
 
@@ -60,7 +60,7 @@ These are development-stage projects. Replace placeholders once compiled UI scre
 | klanghelm-ivgi.png | https://klanghelm.com/contents/products/IVGI.php — product image |
 | chowtapemodel.png | https://github.com/jatinchowdhury18/AnalogTapeModel — Manual (no README screenshot; check chowdsp.com) |
 | wolf-shaper.png | https://github.com/wolf-plugins/wolf-shaper — screenshot in docs/ |
-| cymatics-diablo-lite.png | https://cymatics.fm/products/diablo-lite — product image |
+| cymatics-diablo-lite.png | https://cymatics.fm/pages/free-download-vault — product image |
 | dumpster-fire.png | https://www.audiodamage.com/pages/free-and-legacy — product image |
 
 ## Reverb
@@ -71,19 +71,19 @@ These are development-stage projects. Replace placeholders once compiled UI scre
 | orilriver.png | https://www.kvraudio.com/product/orilriver-by-denis-tihanov — product image |
 | dragonfly-reverb.png | GitHub repo collage.png (script) |
 | tal-reverb-4.png | https://tal-software.com/products/tal-reverb-4 — product image |
-| cloudseed.png | https://github.com/ValdemarOrn/CloudSeed — Documentation/ folder |
-| cymatics-space-lite.png | https://cymatics.fm/products/space-lite — product image |
-| cymatics-memory.png | https://cymatics.fm/products/memory — product image |
+| cloudseed.png | https://github.com/ValdemarOrn/CloudSeed — interface.png at repo root (script) |
+| cymatics-space-lite.png | https://cymatics.fm/pages/free-download-vault — product image |
+| cymatics-memory.png | https://cymatics.fm/pages/free-download-vault — product image |
 | pocketdimension.png | https://www.audiodamage.com/pages/free-and-legacy — product image |
 
 ## Delay
 
 | File | Source |
 |------|--------|
-| tal-dub-iii.png | https://tal-software.com/products/tal-dub-3 — product image |
+| tal-dub-x.png | https://tal-software.com/products/tal-dub-x — product image |
 | spaceship-delay.png | https://www.kvraudio.com/product/spaceship-delay-by-musical-entropy — KVR listing image |
 | chowmatrix.png | https://chowdsp.com/products.html — ChowMatrix image |
-| cymatics-deja-vu.png | https://cymatics.fm/products/deja-vu — product image |
+| cymatics-deja-vu.png | https://cymatics.fm/pages/free-download-vault — product image |
 
 ## Creative Effects
 
@@ -112,9 +112,9 @@ These are development-stage projects. Replace placeholders once compiled UI scre
 
 | File | Source |
 |------|--------|
-| tal-filter-2.png | https://tal-software.com/products/tal-filter-2 — product image |
-| hy-filter4-free.png | https://hy-plugins.com/product/hy-filter4-free/ — product image |
-| morph-eq.png | https://kilohearts.com/products/morph_eq — product image |
+| tal-filter-2.png | https://www.kvraudio.com/product/tal-filter-ii-by-tal-software — product image (TAL no longer lists it) |
+| hy-filter4-free.png | https://hy-plugins.com/product/hy-filter4/ — product image |
+| morph-eq.png | https://www.minimal.audio/products/morph-eq — product image (Minimal Audio, not Kilohearts) |
 
 ## Utility / Metering
 
@@ -155,7 +155,7 @@ These are development-stage projects. Replace placeholders once compiled UI scre
 | kilohearts-essentials.png | https://kilohearts.com/products/kilohearts_essentials — product image |
 | meldaproduction-mfreefxbundle.png | https://www.meldaproduction.com/MFreeFXBundle — product image |
 | audio-damage-free-collection.png | https://www.audiodamage.com/pages/free-and-legacy — collection image |
-| cymatics-free-plugins.png | https://cymatics.fm/pages/free-plugins — product image |
+| cymatics-free-plugins.png | https://cymatics.fm/pages/free-download-vault — product image |
 
 ## Plugin Frameworks
 
