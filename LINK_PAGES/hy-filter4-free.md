@@ -28,5 +28,5 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://hy-plugins.com/product/hy-filter4-free/](https://hy-plugins.com/product/hy-filter4-free/)
+- **Website / repo:** [https://hy-plugins.com/product/hy-filter4/](https://hy-plugins.com/product/hy-filter4/)
 

@@ -7,7 +7,7 @@
 
 ## Summary
 
-Morphing parametric EQ and filter tool.
+Morphing parametric EQ and filter tool by Minimal Audio.
 
 ## Why it belongs in this repository
 
@@ -28,5 +28,5 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://kilohearts.com/products/morph_eq](https://kilohearts.com/products/morph_eq)
+- **Website / repo:** [https://www.minimal.audio/products/morph-eq](https://www.minimal.audio/products/morph-eq)
 

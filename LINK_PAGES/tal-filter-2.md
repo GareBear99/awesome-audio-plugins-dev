@@ -9,6 +9,8 @@
 
 Host-synced filter with tempo-synced modulation.
 
+> **Note (2026-11-08):** TAL no longer lists TAL-Filter-2 on its own site; the KVR product page above is the live reference (v3.1.2, free, GPL).
+
 ## Why it belongs in this repository
 
 This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **TAL-Filter-2** is, what kind of reader it suits, and where to go next.
@@ -28,5 +30,5 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://tal-software.com/products/tal-filter-2](https://tal-software.com/products/tal-filter-2)
+- **Website / repo:** [https://www.kvraudio.com/product/tal-filter-ii-by-tal-software](https://www.kvraudio.com/product/tal-filter-ii-by-tal-software)
 

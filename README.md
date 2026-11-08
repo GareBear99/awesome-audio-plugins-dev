@@ -257,7 +257,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**Klanghelm IVGI**](LINK_PAGES/klanghelm-ivgi.md) — Analog-style saturation. [Official site / repo](https://klanghelm.com/contents/products/IVGI.php)
 - [**ChowTapeModel**](LINK_PAGES/chowtapemodel.md) — Open-source analog tape model. [Official site / repo](https://github.com/jatinchowdhury18/AnalogTapeModel)
 - [**Wolf Shaper**](LINK_PAGES/wolf-shaper.md) — Open-source waveshaper with drawable curve. [Official site / repo](https://github.com/wolf-plugins/wolf-shaper)
-- [**Cymatics Diablo Lite**](LINK_PAGES/cymatics-diablo-lite.md) — Free distortion and saturation plugin. [Official site / repo](https://cymatics.fm/products/diablo-lite)
+- [**Cymatics Diablo Lite**](LINK_PAGES/cymatics-diablo-lite.md) — Free distortion and saturation plugin. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
 - [**Dumpster Fire**](LINK_PAGES/dumpster-fire.md) — Distortion with multiple algorithms. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
 
 ## Reverb
@@ -267,16 +267,16 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**Dragonfly Reverb**](LINK_PAGES/dragonfly-reverb.md) — Open-source algorithmic reverb suite. [Official site / repo](https://github.com/michaelwillis/dragonfly-reverb)
 - [**TAL-Reverb-4**](LINK_PAGES/tal-reverb-4.md) — Vintage plate reverb. [Official site / repo](https://tal-software.com/products/tal-reverb-4)
 - [**CloudSeed**](LINK_PAGES/cloudseed.md) — Algorithmic reverb for very large spaces. [Official site / repo](https://github.com/ValdemarOrn/CloudSeed)
-- [**Cymatics Space Lite**](LINK_PAGES/cymatics-space-lite.md) — Free spatial effect plugin. [Official site / repo](https://cymatics.fm/products/space-lite)
-- [**Cymatics Memory**](LINK_PAGES/cymatics-memory.md) — Atmosphere and reverb-style effect. [Official site / repo](https://cymatics.fm/products/memory)
+- [**Cymatics Space Lite**](LINK_PAGES/cymatics-space-lite.md) — Free spatial effect plugin. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
+- [**Cymatics Memory**](LINK_PAGES/cymatics-memory.md) — Atmosphere and reverb-style effect. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
 - [**PocketDimension**](LINK_PAGES/pocketdimension.md) — Stereo enhancer and reverb-style utility. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
 
 ## Delay
 
-- [**TAL-Dub-III**](LINK_PAGES/tal-dub-iii.md) — Dub delay with tape-style character. [Official site / repo](https://tal-software.com/products/tal-dub-3)
+- [**TAL-Dub-X**](LINK_PAGES/tal-dub-x.md) — Dub delay with tape-style character. [Official site / repo](https://tal-software.com/products/tal-dub-x)
 - [**Spaceship Delay**](LINK_PAGES/spaceship-delay.md) — Delay with filters and modulation. [Official site / repo](https://www.kvraudio.com/product/spaceship-delay-by-musical-entropy)
-- [**ChowMatrix**](LINK_PAGES/chowmatrix.md) — Open-source delay matrix processor. [Official site / repo](https://github.com/jatinchowdhury18/ChowMatrix)
-- [**Cymatics Deja Vu**](LINK_PAGES/cymatics-deja-vu.md) — Lo-fi and tape-style delay. [Official site / repo](https://cymatics.fm/products/deja-vu)
+- [**ChowMatrix**](LINK_PAGES/chowmatrix.md) — Open-source delay matrix processor. [Official site / repo](https://github.com/Chowdhury-DSP/ChowMatrix)
+- [**Cymatics Deja Vu**](LINK_PAGES/cymatics-deja-vu.md) — Lo-fi and tape-style delay. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
 
 ## Creative Effects
 
@@ -299,9 +299,9 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 
 ## Filters
 
-- [**TAL-Filter-2**](LINK_PAGES/tal-filter-2.md) — Host-synced filter with tempo-synced modulation. [Official site / repo](https://tal-software.com/products/tal-filter-2)
-- [**HY-Filter4 Free**](LINK_PAGES/hy-filter4-free.md) — Multi-mode filter with visualization. [Official site / repo](https://hy-plugins.com/product/hy-filter4-free/)
-- [**Morph EQ**](LINK_PAGES/morph-eq.md) — Morphing parametric EQ and filter tool. [Official site / repo](https://kilohearts.com/products/morph_eq)
+- [**TAL-Filter-2**](LINK_PAGES/tal-filter-2.md) — Host-synced filter with tempo-synced modulation. [Official site / repo](https://www.kvraudio.com/product/tal-filter-ii-by-tal-software)
+- [**HY-Filter4 Free**](LINK_PAGES/hy-filter4-free.md) — Multi-mode filter with visualization. [Official site / repo](https://hy-plugins.com/product/hy-filter4/)
+- [**Morph EQ**](LINK_PAGES/morph-eq.md) — Morphing parametric EQ and filter tool (Minimal Audio). [Official site / repo](https://www.minimal.audio/products/morph-eq)
 
 ## Utility / Metering
 
@@ -327,7 +327,7 @@ See the full guide: [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLU
 - [**Kilohearts Essentials**](LINK_PAGES/kilohearts-essentials.md) — Free bundle of snap-in effects and utilities. [Official site / repo](https://kilohearts.com/products/kilohearts_essentials)
 - [**MeldaProduction MFreeFXBundle**](LINK_PAGES/meldaproduction-mfreefxbundle.md) — Large free bundle including EQ, compression, reverb, and analysis tools. [Official site / repo](https://www.meldaproduction.com/MFreeFXBundle)
 - [**Audio Damage Free Collection**](LINK_PAGES/audio-damage-free-collection.md) — Free plugins such as Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, and PocketDimension. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
-- [**Cymatics Free Plugins**](LINK_PAGES/cymatics-free-plugins.md) — Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu. [Official site / repo](https://cymatics.fm/pages/free-plugins)
+- [**Cymatics Free Plugins**](LINK_PAGES/cymatics-free-plugins.md) — Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
 
 ## Plugin Frameworks
 
@@ -399,9 +399,10 @@ This repository is distributed under the terms of the [LICENSE](LICENSE) file.
 | [**Free Violin Synth Sample Kit**](https://github.com/GareBear99/Free-Violin-Synth-Sample-Kit) | Physical-model violin sample kit rendered from the Instrudio violin instrument |
 | [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
 | [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples tuned to every chromatic key |
-| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115+ risers and 63 downlifters - noise, synth, drum, FX, cinematic |
+| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 186 risers and downlifters - noise, synth, drum, FX, cinematic |
 | [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit - 808s, cowbells, drums, MIDI, templates |
 | [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, and FX |
+| [**Free Drum Producer Kit**](https://github.com/GareBear99/Free-Drum-Producer-Kit) | 136 drum one-shots |
 
 ### Related audio projects
 - [**VF-PlexLab**](https://github.com/GareBear99/VF-PlexLab) - VocalForge PersonaPlex Lab starter repo for a JUCE plugin + local backend + HTML tester around NVIDIA PersonaPlex.

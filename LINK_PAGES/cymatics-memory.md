@@ -28,5 +28,5 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://cymatics.fm/products/memory](https://cymatics.fm/products/memory)
+- **Website / repo:** [https://cymatics.fm/pages/free-download-vault](https://cymatics.fm/pages/free-download-vault)
 

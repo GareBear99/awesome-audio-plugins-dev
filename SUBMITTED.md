@@ -8,25 +8,35 @@ It is intentionally honest:
 
 ## Current status
 
-- **Approved and published in this repository:** **94 entries**
+- **Approved and published in this repository:** **113 entries**
 - **Externally accepted / approved on third-party lists:** **none recorded yet**
 - **Purpose of this file:** act as a public ledger of what is already accepted on the list, and a future tracker for outside submission wins
 
 ## Approved and published in this repository
 
-### Featured ecosystem (12)
-- **FreeEQ8** — Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis.
-- **PaintMask** — Paint-driven audio processing and visual interaction concept.
-- **RiftWave Suite** — Modular synth and waveform-focused plugin ecosystem.
-- **WURP** — Experimental sound-design engine focused on motion, formant behavior, and destructive coloration.
-- **AETHER** — Choir and atmosphere designer for cinematic and ambient sound shaping.
-- **WhisperGate** — Procedural whisper and ritual-choir atmosphere plugin concept.
-- **Therum** — Free wavetable synth project.
-- **FreeSampler** — Lightweight sampler plugin project.
-- **MixMaid** — Mixing utility toolkit.
-- **BassMaid** — Bass enhancement and low-end processing concept.
-- **SpaceMaid** — Spatial processing concept.
-- **GlueMaid** — Glue / cohesion mix-bus processor concept.
+_Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the May 2026 README growth). Total distinct entries: **113**._
+
+### Featured ecosystem (20)
+- **FreeEQ8** — Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis
+- **FreeVox8** — Spectral vocoder, ghost resynthesis, and dynamic spectral masking plugin path for vocals, synths, drums, alien choirs, playable frozen textures, and experimental sound design
+- **Therum** — Free wavetable synth project
+- **Instrudio** — Ten-instrument cross-platform instrument ecosystem with hybrid HTML/plugin architecture
+- **XyloCore** — Playable xylophone / tuned-percussion instrument with velocity-mapped samples
+- **BassMaid** — Bass enhancement and low-end processing concept
+- **SpaceMaid** — Spatial processing concept
+- **GlueMaid** — Glue / cohesion mix-bus processor concept
+- **MixMaid** — Mixing utility toolkit
+- **MultiMaid** — Focused multiband dynamics for the Maid suite, intentionally non-overlapping with FreeEQ8 / GlueMaid / MixMaid / BassMaid / SpaceMaid / ChainMaid / MeterMaid
+- **MeterMaid** — ITU-R BS.1770-4 / EBU R128 mastering + metering suite with octagonal target radar, LRA, PSR/PLR, spectrogram, chromagram, goniometer
+- **ChainMaid** — Sidechain ducking and pumping effects
+- **RiftWave Suite** — Modular synth and waveform-focused plugin ecosystem
+- **PaintMask** — Paint-driven audio processing and visual interaction concept
+- **WURP** — Experimental sound-design engine focused on motion, formant behavior, and destructive coloration
+- **AETHER** — Choir and atmosphere designer for cinematic and ambient sound shaping
+- **WhisperGate** — Procedural whisper and ritual-choir atmosphere plugin concept
+- **FreeSampler** — Lightweight sampler plugin project
+- **VF-PlexLab** — VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation
+- **PAP-Forge-Audio** — Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent
 
 ### Equalizers (8)
 - **FreeEQ8**
@@ -60,37 +70,37 @@ It is intentionally honest:
 - **CamelCrusher**
 - **Klanghelm IVGI**
 - **ChowTapeModel**
+- **Wolf Shaper**
 - **Cymatics Diablo Lite**
-- **Rift Filter Lite**
-- **Rift Feedback Lite**
+- **Dumpster Fire**
 
 ### Reverb (8)
 - **Valhalla Supermassive**
-- **TAL-Reverb-4**
 - **OrilRiver**
 - **Dragonfly Reverb**
+- **TAL-Reverb-4**
 - **CloudSeed**
 - **Cymatics Space Lite**
+- **Cymatics Memory**
 - **PocketDimension**
-- **MISHBY**
 
 ### Delay (4)
+- **TAL-Dub-X**
 - **Spaceship Delay**
-- **TAL-Dub-III**
-- **Hysteresis**
-- **Backmask**
+- **ChowMatrix**
+- **Cymatics Deja Vu**
 
 ### Creative Effects (10)
-- **PaulXStretch**
 - **Fracture**
-- **Dumpster Fire**
-- **DreamEater**
-- **MouthOfSorrow**
+- **Hysteresis**
+- **PaulXStretch**
 - **Vinyl**
-- **Cymatics Memory**
-- **Cymatics Deja Vu**
-- **Morph EQ**
-- **Stickz**
+- **Backmask**
+- **DreamEater**
+- **MISHBY**
+- **MouthOfSorrow**
+- **Rift Feedback Lite**
+- **Rift Filter Lite**
 
 ### Modulation (3)
 - **TAL-Chorus-LX**
@@ -100,21 +110,22 @@ It is intentionally honest:
 ### Filters (3)
 - **TAL-Filter-2**
 - **HY-Filter4 Free**
-- **Wolf Shaper**
+- **Morph EQ**
 
-### Utility / Metering (6)
+### Utility / Metering (7)
+- **MeterMaid**
 - **SPAN**
 - **Youlean Loudness Meter**
-- **dpMeter5**
 - **MLoudnessAnalyzer**
 - **HOFA 4U Meter**
+- **dpMeter5**
 - **MiniMeters**
 
 ### Open-Source DSP Plugins (4)
 - **Airwindows**
 - **Chowdhury DSP**
+- **DISTRHO Ports**
 - **ZL-Audio Plugins**
-- **Distrho Ports**
 
 ### Multi-Effect Bundles (4)
 - **Kilohearts Essentials**
@@ -125,22 +136,41 @@ It is intentionally honest:
 ### Plugin Frameworks (5)
 - **JUCE**
 - **iPlug2**
+- **DPF**
 - **CLAP**
 - **NIH-plug**
-- **DPF**
 
 ### DSP Resources (5)
-- **The Scientist and Engineer's Guide to DSP**
 - **Audio EQ Cookbook**
-- **JOS Stanford**
 - **MusicDSP Archive**
+- **The Scientist and Engineer's Guide to DSP**
+- **JOS Stanford**
 - **KVR Developer Forum**
 
-### Free Sample Packs (3)
-- **TizWildin Drum Kit Vol. 1**
-- **Cymatics Free Download Vault**
+### Free Sample Packs (12)
+- **TizWildin-Aurora**
+- **TizWildin-Obsidian**
+- **TizWildin-Skyline**
+- **TizWildin-Chroma**
+- **TizWildin-Chime**
+- **Free Violin Synth Sample Kit**
 - **Free Dark Piano Sound Kit**
+- **Free 808 Producer Kit**
+- **Free Riser Producer Kit**
+- **Phonk Producer Toolkit**
+- **Free Future Bass Producer Kit**
+- **Free Drum Producer Kit**
 
+> Note: the previous version of this ledger listed **TizWildin Drum Kit Vol. 1** here. It appears in no other file (not the README pack table, not the HUB packs manifest), so it is removed pending confirmation whether it is a real pack.
+
+### Additional sources (2)
+- **Cymatics Free Download Vault**
+- **Stickz**
+
+### Related audio projects (2)
+- **VF-PlexLab**
+- **PAP-Forge-Audio**
+_VF-PlexLab and PAP-Forge-Audio are also in Featured ecosystem (Experimental); Stickz is also in Creative Effects._
 ## Externally accepted / approved elsewhere
 
 _No external approvals are documented in the repository yet._

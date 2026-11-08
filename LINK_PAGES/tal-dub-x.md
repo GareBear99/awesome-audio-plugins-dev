@@ -1,6 +1,6 @@
-# TAL-Dub-III
+# TAL-Dub-X
 
-![TAL-Dub-III demo card](assets/tal-dub-iii.png)
+![TAL-Dub-III demo card](assets/tal-dub-x.png)
 
 > **Category:** Delay  
 > **Type:** Delay plugin
@@ -11,7 +11,7 @@ Dub delay with tape-style character.
 
 ## Why it belongs in this repository
 
-This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **TAL-Dub-III** is, what kind of reader it suits, and where to go next.
+This page gives readers a cleaner handoff from the main list to deeper evaluation. Instead of forcing a blind click, it explains what **TAL-Dub-X** is, what kind of reader it suits, and where to go next.
 
 ## What to look for
 
@@ -28,5 +28,7 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://tal-software.com/products/tal-dub-3](https://tal-software.com/products/tal-dub-3)
+- **Website / repo:** [https://tal-software.com/products/tal-dub-x](https://tal-software.com/products/tal-dub-x)
 
+
+> **Note (2026-11-08):** TAL-Dub-III was retired by TAL (deprecated on tal-software.com); TAL-Dub-X is its successor dub delay.

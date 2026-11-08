@@ -40,7 +40,7 @@ Before opening a PR, make sure:
 If this project is useful to you, consider supporting it:
 
 - [GitHub Sponsors](https://github.com/sponsors/GareBear99)
-- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)
+- [Buy Me a Coffee](https://buymeacoffee.com/garebear99)
 
 
 ## Start Here ecosystem categories

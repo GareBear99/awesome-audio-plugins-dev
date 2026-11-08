@@ -28,5 +28,5 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://github.com/jatinchowdhury18/ChowMatrix](https://github.com/jatinchowdhury18/ChowMatrix)
+- **Website / repo:** [https://github.com/Chowdhury-DSP/ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix)
 

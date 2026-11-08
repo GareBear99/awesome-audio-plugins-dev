@@ -28,5 +28,5 @@ This page gives readers a cleaner handoff from the main list to deeper evaluatio
 
 ## Official link
 
-- **Website / repo:** [https://cymatics.fm/pages/free-plugins](https://cymatics.fm/pages/free-plugins)
+- **Website / repo:** [https://cymatics.fm/pages/free-download-vault](https://cymatics.fm/pages/free-download-vault)
 

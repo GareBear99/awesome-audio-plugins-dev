@@ -107,191 +107,218 @@ Before a submission is accepted, we verify:
 
 Everything below has been reviewed and published into the main list.
 
-### Featured Ecosystem — 12 entries
+### Featured Ecosystem — 20 entries
 
 | Entry | Description |
 |-------|-------------|
 | **FreeEQ8** | Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis |
-| **PaintMask** | Paint-driven audio processing and visual interaction concept |
-| **RiftWave Suite** | Modular synth and waveform-focused plugin ecosystem |
-| **WURP** | Experimental sound-design engine focused on motion, formant behavior, and destructive coloration |
-| **AETHER** | Choir and atmosphere designer for cinematic and ambient sound shaping |
-| **WhisperGate** | Procedural whisper and ritual-choir atmosphere plugin concept |
+| **FreeVox8** | Spectral vocoder, ghost resynthesis, and dynamic spectral masking plugin path for vocals, synths, drums, alien choirs, playable frozen textures, and experimental sound design |
 | **Therum** | Free wavetable synth project |
-| **FreeSampler** | Lightweight sampler plugin project |
-| **MixMaid** | Mixing utility toolkit |
+| **Instrudio** | Ten-instrument cross-platform instrument ecosystem with hybrid HTML/plugin architecture |
+| **XyloCore** | Playable xylophone / tuned-percussion instrument with velocity-mapped samples |
 | **BassMaid** | Bass enhancement and low-end processing concept |
 | **SpaceMaid** | Spatial processing concept |
 | **GlueMaid** | Glue / cohesion mix-bus processor concept |
+| **MixMaid** | Mixing utility toolkit |
+| **MultiMaid** | Focused multiband dynamics for the Maid suite, intentionally non-overlapping with FreeEQ8 / GlueMaid / MixMaid / BassMaid / SpaceMaid / ChainMaid / MeterMaid |
+| **MeterMaid** | ITU-R BS.1770-4 / EBU R128 mastering + metering suite with octagonal target radar, LRA, PSR/PLR, spectrogram, chromagram, goniometer |
+| **ChainMaid** | Sidechain ducking and pumping effects |
+| **RiftWave Suite** | Modular synth and waveform-focused plugin ecosystem |
+| **PaintMask** | Paint-driven audio processing and visual interaction concept |
+| **WURP** | Experimental sound-design engine focused on motion, formant behavior, and destructive coloration |
+| **AETHER** | Choir and atmosphere designer for cinematic and ambient sound shaping |
+| **WhisperGate** | Procedural whisper and ritual-choir atmosphere plugin concept |
+| **FreeSampler** | Lightweight sampler plugin project |
+| **VF-PlexLab** | VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation |
+| **PAP-Forge-Audio** | Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent |
 
 ### Equalizers — 8 entries
 
 | Entry | Description |
 |-------|-------------|
-| **FreeEQ8** | Free open-source 8-band parametric EQ |
-| **TDR Nova** | Dynamic parametric EQ with sidechain |
-| **TDR SlickEQ** | Musical 3-band mixing EQ with saturation and output-stage models |
-| **MEqualizer** | General-purpose parametric EQ |
-| **Luftikus** | Analog-style mastering EQ inspired by the Maag EQ4 |
-| **Blue Cat Triple EQ** | Simple 3-band semi-parametric EQ |
-| **Marvel GEQ** | Linear-phase 16-band graphic EQ |
-| **ReaEQ** | Unlimited-band parametric EQ from Cockos |
+| **FreeEQ8** | Free open-source 8-band parametric EQ with dynamic EQ, match EQ, linear phase, and spectrum analyzer. |
+| **TDR Nova** | Dynamic parametric EQ with sidechain. |
+| **TDR SlickEQ** | Musical 3-band mixing EQ with saturation and output-stage models. |
+| **MEqualizer** | General-purpose parametric EQ. |
+| **Luftikus** | Analog-style mastering EQ inspired by the Maag EQ4. |
+| **Blue Cat Triple EQ** | Simple 3-band semi-parametric EQ. |
+| **Marvel GEQ** | Linear-phase 16-band graphic EQ. |
+| **ReaEQ** | Unlimited-band parametric EQ from Cockos. |
 
 ### Synthesizers — 8 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Vital** | Advanced wavetable synthesizer with spectral warping and extensive modulation |
-| **Surge XT** | Open-source hybrid synth with deep modulation and a large feature set |
-| **Dexed** | Yamaha DX7 FM synthesis emulation |
-| **Helm** | Cross-platform polyphonic synth |
-| **Odin2** | Hybrid synth with analog-modeled filters |
-| **OB-Xd** | Oberheim-inspired virtual analog synth |
-| **TAL-NoiseMaker** | Virtual analog synth with strong preset support |
-| **Tunefish4** | Additive synthesizer |
+| **Vital** | Advanced wavetable synthesizer with spectral warping and extensive modulation. |
+| **Surge XT** | Open-source hybrid synth with deep modulation and a large feature set. |
+| **Dexed** | Yamaha DX7 FM synthesis emulation. |
+| **Helm** | Cross-platform polyphonic synth. |
+| **Odin2** | Hybrid synth with analog-modeled filters. |
+| **OB-Xd** | Oberheim-inspired virtual analog synth. |
+| **TAL-NoiseMaker** | Virtual analog synth with strong preset support. |
+| **Tunefish4** | Additive synthesizer. |
 
 ### Compression — 5 entries
 
 | Entry | Description |
 |-------|-------------|
-| **TDR Kotelnikov** | Transparent wideband dynamics processor |
-| **RoughRider3** | Character compressor with strong coloration |
-| **DC1A** | Minimal one-knob compressor |
-| **MJUC jr.** | Variable-mu tube compressor emulation |
-| **OTT** | Multiband upward and downward compression |
+| **TDR Kotelnikov** | Transparent wideband dynamics processor. |
+| **RoughRider3** | Character compressor with strong coloration. |
+| **DC1A** | Minimal one-knob compressor. |
+| **MJUC jr.** | Variable-mu tube compressor emulation. |
+| **OTT** | Multiband upward and downward compression. |
 
 ### Saturation / Distortion — 7 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Softube Saturation Knob** | One-knob saturation |
-| **CamelCrusher** | Distortion/compressor with warm tone |
-| **Klanghelm IVGI** | Analog-style saturation |
-| **ChowTapeModel** | Open-source analog tape model |
-| **Wolf Shaper** | Open-source waveshaper with drawable curve |
-| **Cymatics Diablo Lite** | Free distortion and saturation plugin |
-| **Dumpster Fire** | Distortion with multiple algorithms |
+| **Softube Saturation Knob** | One-knob saturation. |
+| **CamelCrusher** | Distortion/compressor with warm tone. |
+| **Klanghelm IVGI** | Analog-style saturation. |
+| **ChowTapeModel** | Open-source analog tape model. |
+| **Wolf Shaper** | Open-source waveshaper with drawable curve. |
+| **Cymatics Diablo Lite** | Free distortion and saturation plugin. |
+| **Dumpster Fire** | Distortion with multiple algorithms. |
 
 ### Reverb — 8 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Valhalla Supermassive** | Large-space creative delay and reverb processor |
-| **OrilRiver** | Algorithmic stereo reverb |
-| **Dragonfly Reverb** | Open-source algorithmic reverb suite |
-| **TAL-Reverb-4** | Vintage plate reverb |
-| **CloudSeed** | Algorithmic reverb for very large spaces |
-| **Cymatics Space Lite** | Free spatial effect plugin |
-| **Cymatics Memory** | Atmosphere and reverb-style effect |
-| **PocketDimension** | Stereo enhancer and reverb-style utility |
+| **Valhalla Supermassive** | Large-space creative delay and reverb processor. |
+| **OrilRiver** | Algorithmic stereo reverb. |
+| **Dragonfly Reverb** | Open-source algorithmic reverb suite. |
+| **TAL-Reverb-4** | Vintage plate reverb. |
+| **CloudSeed** | Algorithmic reverb for very large spaces. |
+| **Cymatics Space Lite** | Free spatial effect plugin. |
+| **Cymatics Memory** | Atmosphere and reverb-style effect. |
+| **PocketDimension** | Stereo enhancer and reverb-style utility. |
 
 ### Delay — 4 entries
 
 | Entry | Description |
 |-------|-------------|
-| **TAL-Dub-III** | Dub delay with tape-style character |
-| **Spaceship Delay** | Delay with filters and modulation |
-| **ChowMatrix** | Open-source delay matrix processor |
-| **Cymatics Deja Vu** | Lo-fi and tape-style delay |
+| **TAL-Dub-X** | Dub delay with tape-style character. |
+| **Spaceship Delay** | Delay with filters and modulation. |
+| **ChowMatrix** | Open-source delay matrix processor. |
+| **Cymatics Deja Vu** | Lo-fi and tape-style delay. |
 
 ### Creative Effects — 10 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Fracture** | Buffer-effect glitch processor |
-| **Hysteresis** | Glitch delay with modulation |
-| **PaulXStretch** | Extreme time-stretching for ambient textures |
-| **Vinyl** | Vinyl simulation |
-| **Backmask** | Reverse-audio effect |
-| **DreamEater** | Audio mangling effect |
-| **MISHBY** | Lo-fi VHS and tape-style processor |
-| **MouthOfSorrow** | Granular effects processor |
-| **Rift Feedback Lite** | Feedback effect plugin |
-| **Rift Filter Lite** | Creative filter plugin |
+| **Fracture** | Buffer-effect glitch processor. |
+| **Hysteresis** | Glitch delay with modulation. |
+| **PaulXStretch** | Extreme time-stretching for ambient textures. |
+| **Vinyl** | Vinyl simulation. |
+| **Backmask** | Reverse-audio effect. |
+| **DreamEater** | Audio mangling effect. |
+| **MISHBY** | Lo-fi VHS and tape-style processor. |
+| **MouthOfSorrow** | Granular effects processor. |
+| **Rift Feedback Lite** | Feedback effect plugin. |
+| **Rift Filter Lite** | Creative filter plugin. |
 
 ### Modulation — 3 entries
 
 | Entry | Description |
 |-------|-------------|
-| **TAL-Chorus-LX** | Juno-style chorus emulation |
-| **Blue Cat Chorus** | Classic stereo chorus |
-| **ChowPhaser** | Open-source phaser with analog-modeled feedback |
+| **TAL-Chorus-LX** | Juno-style chorus emulation. |
+| **Blue Cat Chorus** | Classic stereo chorus. |
+| **ChowPhaser** | Open-source phaser with analog-modeled feedback. |
 
 ### Filters — 3 entries
 
 | Entry | Description |
 |-------|-------------|
-| **TAL-Filter-2** | Host-synced filter with tempo-synced modulation |
-| **HY-Filter4 Free** | Multi-mode filter with visualization |
-| **Morph EQ** | Morphing parametric EQ and filter tool |
+| **TAL-Filter-2** | Host-synced filter with tempo-synced modulation. |
+| **HY-Filter4 Free** | Multi-mode filter with visualization. |
+| **Morph EQ** | Morphing parametric EQ and filter tool (Minimal Audio). |
 
-### Utility / Metering — 6 entries
+### Utility / Metering — 7 entries
 
 | Entry | Description |
 |-------|-------------|
-| **SPAN** | Real-time FFT spectrum analyzer |
-| **Youlean Loudness Meter** | LUFS loudness metering |
-| **MLoudnessAnalyzer** | Loudness analyzer |
-| **HOFA 4U Meter** | Level, correlation, and goniometer meters |
-| **dpMeter5** | Multichannel meter with RMS, LUFS, and true peak |
-| **MiniMeters** | Standalone or plugin-style metering tools |
+| **MeterMaid** | Free, open-source single-plugin mastering + metering suite. ITU-R BS.1770-4 K-weighted loudness (momentary / short-term / integrated LUFS + LRA), 4× oversampled true peak (per-channel + summed), RMS, correlation, stereo width, crest/PSR/PLR, spectrum, log-frequency spectrogram, chromagram, goniometer, vectorscope, loudness histogram, and an eight-spoke octagonal target radar. MIT licensed. |
+| **SPAN** | Real-time FFT spectrum analyzer. |
+| **Youlean Loudness Meter** | LUFS loudness metering. |
+| **MLoudnessAnalyzer** | Loudness analyzer. |
+| **HOFA 4U Meter** | Level, correlation, and goniometer meters. |
+| **dpMeter5** | Multichannel meter with RMS, LUFS, and true peak. |
+| **MiniMeters** | Standalone or plugin-style metering tools. |
 
 ### Open-Source DSP Plugins — 4 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Airwindows** | Large collection of experimental audio effects |
-| **Chowdhury DSP** | Research-driven open-source effects and models |
-| **DISTRHO Ports** | Plugins ported to Linux and LV2 ecosystems |
-| **ZL-Audio Plugins** | Parametric EQ, compressor, and saturator projects |
+| **Airwindows** | Large collection of experimental audio effects. |
+| **Chowdhury DSP** | Research-driven open-source effects and models. |
+| **DISTRHO Ports** | Plugins ported to Linux and LV2 ecosystems. |
+| **ZL-Audio Plugins** | Parametric EQ, compressor, and saturator projects. |
 
 ### Multi-Effect Bundles — 4 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Kilohearts Essentials** | Free bundle of snap-in effects and utilities |
-| **MeldaProduction MFreeFXBundle** | Large free bundle including EQ, compression, reverb, and analysis tools |
-| **Audio Damage Free Collection** | Free plugins including Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, and PocketDimension |
-| **Cymatics Free Plugins** | Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu |
+| **Kilohearts Essentials** | Free bundle of snap-in effects and utilities. |
+| **MeldaProduction MFreeFXBundle** | Large free bundle including EQ, compression, reverb, and analysis tools. |
+| **Audio Damage Free Collection** | Free plugins such as Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, and PocketDimension. |
+| **Cymatics Free Plugins** | Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu. |
 
 ### Plugin Frameworks — 5 entries
 
 | Entry | Description |
 |-------|-------------|
-| **JUCE** | End-to-end C++ framework for audio plugins and apps |
-| **iPlug2** | Lightweight C++ plugin framework |
-| **DPF** | Cross-platform framework with LV2, VST2/3, and CLAP support |
-| **CLAP** | Open plugin standard |
-| **NIH-plug** | Rust-based plugin framework |
+| **JUCE** | End-to-end C++ framework for audio plugins and apps. |
+| **iPlug2** | Lightweight C++ plugin framework. |
+| **DPF** | Cross-platform framework with LV2, VST2/3, and CLAP support. |
+| **CLAP** | Open plugin standard. |
+| **NIH-plug** | Rust-based plugin framework. |
 
 ### DSP Resources — 5 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Audio EQ Cookbook** | Classic biquad filter formulas and reference material |
-| **MusicDSP Archive** | DSP algorithm snippets and references |
-| **The Scientist and Engineer's Guide to DSP** | Free DSP textbook |
-| **JOS Stanford** | Julius O. Smith's music DSP resources |
-| **KVR Developer Forum** | Plugin-development community |
+| **Audio EQ Cookbook** | Classic biquad filter formulas and reference material. |
+| **MusicDSP Archive** | DSP algorithm snippets and references. |
+| **The Scientist and Engineer's Guide to DSP** | Free DSP textbook. |
+| **JOS Stanford** | Julius O. Smith's music DSP resources. |
+| **KVR Developer Forum** | Plugin-development community. |
 
-### Free Sample Packs — 6 entries
+### Free Sample Packs — 12 entries
 
 | Entry | Description |
 |-------|-------------|
-| **Free 808 Producer Kit** | 94 hand-crafted 808 bass samples tuned across the chromatic range |
-| **Free Riser Producer Kit** | 115 riser samples spanning noise, synth, drum, FX, and cinematic categories |
-| **Phonk Producer Toolkit** | Drift phonk starter kit with 808s, cowbells, drums, MIDI patterns, and templates |
-| **Free Future Bass Producer Kit** | Free future bass sample pack with loops, fills, drums, bass, synths, pads, and FX |
-| **Cymatics Free Download Vault** | Rotating collection of free packs and production resources |
-| **Stickz** | Free and commercial sample content |
-| **Free Dark Piano Sound Kit** | Dark and cinematic piano loops and one-shots for trap, drill, R&B, and film scoring |
+| **TizWildin-Aurora** | 3-segment original synth melody pack with loops, stems, demo renders, and neon/cinematic phrasing |
+| **TizWildin-Obsidian** | Dark cinematic sample pack with choir textures, menu loops, transitions, bass, atmosphere, drums, and electric-banjo extensions |
+| **TizWildin-Skyline** | 30 BPM-tagged synthwave and darkwave loops with generator snapshot and dark neon additions |
+| **TizWildin-Chroma** | Multi-segment game synthwave loop sample pack from TizWildin Entertainment |
+| **TizWildin-Chime** | Multi-part 88 BPM chime collection spanning glass, void, halo, reed, and neon synthwave lanes |
+| **Free Violin Synth Sample Kit** | Physical-model violin sample kit rendered from the Instrudio violin instrument |
+| **Free Dark Piano Sound Kit** | 88 piano notes + dark/cinematic loops and MIDI |
+| **Free 808 Producer Kit** | 94 hand-crafted 808 bass samples tuned to every chromatic key |
+| **Free Riser Producer Kit** | 186 risers and downlifters - noise, synth, drum, FX, cinematic |
+| **Phonk Producer Toolkit** | Drift phonk starter kit - 808s, cowbells, drums, MIDI, templates |
+| **Free Future Bass Producer Kit** | Loops, fills, drums, bass, synths, pads, and FX |
+| **Free Drum Producer Kit** | 136 drum one-shots |
+
+### Additional sources — 2 entries
+
+| Entry | Description |
+|-------|-------------|
+| **Cymatics Free Download Vault** | Rotating collection of free packs and production resources. |
+| **Stickz** | Free and commercial sample content. |
+
+### Related audio projects — 2 entries
+
+| Entry | Description |
+|-------|-------------|
+| **VF-PlexLab** | VocalForge PersonaPlex Lab starter repo for a JUCE plugin + local backend + HTML tester around NVIDIA PersonaPlex. |
+| **PAP-Forge-Audio** | Procedural Autonomous Plugins runtime for generating, branching, validating, and restoring plugin projects from natural-language sound intent. |
+
+_VF-PlexLab and PAP-Forge-Audio are also in Featured ecosystem (Experimental); Stickz is also in Creative Effects._
 
 ---
 
-**Total accepted entries: 99**
-
----
-
+**Total accepted entries: 113**
 ## Related pages
 
 - [README.md](README.md) — main list

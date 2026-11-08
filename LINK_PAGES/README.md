@@ -86,7 +86,7 @@ Hub repository: [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWil
 
 ## Delay
 
-- [TAL-Dub-III](tal-dub-iii.md) — Dub delay with tape-style character.
+- [TAL-Dub-X](tal-dub-x.md) — Dub delay with tape-style character.
 - [Spaceship Delay](spaceship-delay.md) — Delay with filters and modulation.
 - [ChowMatrix](chowmatrix.md) — Open-source delay matrix processor.
 - [Cymatics Deja Vu](cymatics-deja-vu.md) — Lo-fi and tape-style delay.
