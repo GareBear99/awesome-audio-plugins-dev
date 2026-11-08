@@ -402,7 +402,7 @@ This repository is distributed under the terms of the [LICENSE](LICENSE) file.
 | [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 186 risers and downlifters - noise, synth, drum, FX, cinematic |
 | [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit - 808s, cowbells, drums, MIDI, templates |
 | [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, and FX |
-| [**Free Drum Producer Kit**](https://github.com/GareBear99/Free-Drum-Producer-Kit) | 136 drum one-shots |
+| [**Free Drum Producer Kit**](https://github.com/GareBear99/Free-Drum-Producer-Kit) | 136 WAVs (114 one-shots + 22 loops) |
 
 ### Related audio projects
 - [**VF-PlexLab**](https://github.com/GareBear99/VF-PlexLab) - VocalForge PersonaPlex Lab starter repo for a JUCE plugin + local backend + HTML tester around NVIDIA PersonaPlex.

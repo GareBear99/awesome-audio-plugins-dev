@@ -298,7 +298,7 @@ Everything below has been reviewed and published into the main list.
 | **Free Riser Producer Kit** | 186 risers and downlifters - noise, synth, drum, FX, cinematic |
 | **Phonk Producer Toolkit** | Drift phonk starter kit - 808s, cowbells, drums, MIDI, templates |
 | **Free Future Bass Producer Kit** | Loops, fills, drums, bass, synths, pads, and FX |
-| **Free Drum Producer Kit** | 136 drum one-shots |
+| **Free Drum Producer Kit** | 136 WAVs (114 one-shots + 22 loops) |
 
 ### Additional sources — 2 entries
 
