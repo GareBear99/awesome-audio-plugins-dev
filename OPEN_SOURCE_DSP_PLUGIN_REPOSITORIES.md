@@ -1,7 +1,6 @@
-
 # Open-Source DSP Plugin Repositories
 
-A focused reference page for open-source audio plugin repos, DSP codebases, and projects worth studying.
+A focused reference page for **open-source audio plugin repos**, **DSP codebases**, and **projects worth studying**.
 
 Back to the hub: [README.md](README.md)
 
@@ -10,7 +9,6 @@ Back to the hub: [README.md](README.md)
 A plugin list is useful for discovery. A repository list is useful for understanding how the work is actually done.
 
 Source repos expose:
-
 - project structure
 - build systems
 - DSP/UI separation
@@ -20,47 +18,41 @@ Source repos expose:
 
 ## Main Repositories
 
-- [Airwindows](https://github.com/airwindows/airwindows) — large collection of experimental audio effects by Chris Johnson.
-- [Chowdhury DSP](https://github.com/Chowdhury-DSP) — high-quality open-source effects and research-driven work.
-- [DISTRHO Ports](https://github.com/DISTRHO/DISTRHO-Ports) — collection of plugins ported to Linux/LV2.
-- [Epsilon Plugins](https://github.com/natehouk/epsilon-plugins) — open-source audio plugin projects and development resources from Epsilon Audio.
-- [ZL-Audio Plugins](https://github.com/ZL-Audio) — parametric EQ, compressor, and saturator.
-- [lkjb plugins](https://github.com/lkjbdsp/lkjb-plugins) — lightweight free plugin collection.
+- [**Airwindows**](https://github.com/airwindows/airwindows) — large collection of experimental audio effects by Chris Johnson.
+- [**Chowdhury DSP**](https://github.com/Chowdhury-DSP) — high-quality open-source effects and research-driven work.
+- [**DISTRHO Ports**](https://github.com/DISTRHO/DISTRHO-Ports) — collection of plugins ported to Linux/LV2.
+- [**Epsilon Plugins**](https://github.com/natehouk/epsilon-plugins) — open-source audio plugin projects and development resources from Epsilon Audio.
+- [**ZL-Audio Plugins**](https://github.com/ZL-Audio) — parametric EQ, compressor, and saturator.
+- [**lkjb plugins**](https://github.com/lkjbdsp/lkjb-plugins) — lightweight free plugin collection.
 
 ## What These Repositories Show
 
 ### Airwindows
-
 - unconventional processing approaches
 - huge breadth of effect ideas
 - minimalist plugin philosophy
 
 ### Chowdhury DSP
-
 - modern research flavor
 - modeling-heavy work
 - stronger emphasis on advanced DSP topics
 
 ### DISTRHO Ports
-
 - plugin portability
 - Linux relevance
 - adaptation across formats and ecosystems
 
 ### Epsilon Plugins
-
 - audio plugin development projects
 - examples of audio software implementation
 - resources for exploring plugin architecture and development workflows
 
 ### ZL-Audio Plugins
-
 - modern open-source plugin direction
 - practical feature-oriented tools
 - useful for comparison against other EQ/compressor repos
 
 ### lkjb plugins
-
 - lean plugin design
 - light utility focus
 - clean examples for smaller-scope tools
