@@ -132,7 +132,7 @@ Everything below has been reviewed and published into the main list.
 | **VF-PlexLab** | VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation |
 | **PAP-Forge-Audio** | Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent |
 
-### Equalizers — 8 entries
+### Equalizers — 9 entries
 
 | Entry | Description |
 |-------|-------------|
@@ -144,8 +144,9 @@ Everything below has been reviewed and published into the main list.
 | **Blue Cat Triple EQ** | Simple 3-band semi-parametric EQ. |
 | **Marvel GEQ** | Linear-phase 16-band graphic EQ. |
 | **ReaEQ** | Unlimited-band parametric EQ from Cockos. |
+| **Band Practice** | Free 24-band static EQ with ten filter shapes and Zero Latency, Natural Phase and Linear Phase modes. Windows VST3 and Mac VST3/AU. |
 
-### Synthesizers — 8 entries
+### Synthesizers — 9 entries
 
 | Entry | Description |
 |-------|-------------|
@@ -157,6 +158,7 @@ Everything below has been reviewed and published into the main list.
 | **OB-Xd** | Oberheim-inspired virtual analog synth. |
 | **TAL-NoiseMaker** | Virtual analog synth with strong preset support. |
 | **Tunefish4** | Additive synthesizer. |
+| **air** | Free, open-source early-alpha rack synth with synthesis, effects, a drum sampler and editable MIDI patterns. Windows VST3. |
 
 ### Compression — 5 entries
 
@@ -233,7 +235,7 @@ Everything below has been reviewed and published into the main list.
 | **HY-Filter4 Free** | Multi-mode filter with visualization. |
 | **Morph EQ** | Morphing parametric EQ and filter tool (Minimal Audio). |
 
-### Utility / Metering — 7 entries
+### Utility / Metering — 8 entries
 
 | Entry | Description |
 |-------|-------------|
@@ -244,14 +246,16 @@ Everything below has been reviewed and published into the main list.
 | **HOFA 4U Meter** | Level, correlation, and goniometer meters. |
 | **dpMeter5** | Multichannel meter with RMS, LUFS, and true peak. |
 | **MiniMeters** | Standalone or plugin-style metering tools. |
+| **AudioLens** | VS Code extension for inspecting recorded audio with waveforms, spectrograms and measurements. |
 
-### Open-Source DSP Plugins — 4 entries
+### Open-Source DSP Plugins — 5 entries
 
 | Entry | Description |
 |-------|-------------|
 | **Airwindows** | Large collection of experimental audio effects. |
 | **Chowdhury DSP** | Research-driven open-source effects and models. |
 | **DISTRHO Ports** | Plugins ported to Linux and LV2 ecosystems. |
+| **Pakku** | Free, open-source multiband transient shaper for macOS and Windows. |
 | **ZL-Audio Plugins** | Parametric EQ, compressor, and saturator projects. |
 
 ### Multi-Effect Bundles — 4 entries
@@ -318,7 +322,7 @@ _VF-PlexLab and PAP-Forge-Audio are also in Featured ecosystem (Experimental); S
 
 ---
 
-**Total accepted entries: 113**
+**Total accepted entries: 117**
 ## Related pages
 
 - [README.md](README.md) — main list

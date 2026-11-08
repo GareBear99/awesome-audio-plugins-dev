@@ -230,6 +230,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**Blue Cat Triple EQ**](LINK_PAGES/blue-cat-triple-eq.md) — Simple 3-band semi-parametric EQ. [Official site / repo](https://www.bluecataudio.com/Products/Product_TripleEQ/)
 - [**Marvel GEQ**](LINK_PAGES/marvel-geq.md) — Linear-phase 16-band graphic EQ. [Official site / repo](https://www.voxengo.com/product/marvelgeq/)
 - [**ReaEQ**](LINK_PAGES/reaeq.md) — Unlimited-band parametric EQ from Cockos. [Official site / repo](https://www.reaper.fm/reaplugs/)
+- [**Band Practice**](https://fatberrydsp.com/plugins/band-practice) — Free 24-band static EQ with ten filter shapes and Zero Latency, Natural Phase and Linear Phase modes. Windows VST3 and Mac VST3/AU. [Official site / repo](https://fatberrydsp.com/plugins/band-practice)
 
 ## Synthesizers
 
@@ -241,6 +242,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**OB-Xd**](LINK_PAGES/ob-xd.md) — Oberheim-inspired virtual analog synth. [Official site / repo](https://github.com/reales/OB-Xd)
 - [**TAL-NoiseMaker**](LINK_PAGES/tal-noisemaker.md) — Virtual analog synth with strong preset support. [Official site / repo](https://tal-software.com/products/tal-noisemaker)
 - [**Tunefish4**](LINK_PAGES/tunefish4.md) — Additive synthesizer. [Official site / repo](https://github.com/paynebc/tunefish)
+- [**air**](https://github.com/Planetary-Records/air-synth) — Free, open-source early-alpha rack synth with synthesis, effects, a drum sampler and editable MIDI patterns. Windows VST3. [Official site / repo](https://air.planetary.music/)
 
 ## Compression
 
@@ -312,6 +314,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**HOFA 4U Meter**](LINK_PAGES/hofa-4u-meter.md) — Level, correlation, and goniometer meters. [Official site / repo](https://hofa-plugins.de/en/plugins/4u/)
 - [**dpMeter5**](LINK_PAGES/dpmeter5.md) — Multichannel meter with RMS, LUFS, and true peak. [Official site / repo](https://www.tb-software.com/TBProAudio/dpmeter5.html)
 - [**MiniMeters**](LINK_PAGES/minimeters.md) — Standalone or plugin-style metering tools. [Official site / repo](https://www.minimeters.app/)
+- [**AudioLens**](https://github.com/SimZhou/vscode-audiolens) — VS Code extension for inspecting recorded audio with waveforms, spectrograms and measurements. [Official site / repo](https://marketplace.visualstudio.com/items?itemName=simzhou.audiolens)
 
 ## Open-Source DSP Plugins
 

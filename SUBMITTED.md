@@ -8,13 +8,13 @@ It is intentionally honest:
 
 ## Current status
 
-- **Approved and published in this repository:** **113 entries**
+- **Approved and published in this repository:** **117 entries**
 - **Externally accepted / approved on third-party lists:** **none recorded yet**
 - **Purpose of this file:** act as a public ledger of what is already accepted on the list, and a future tracker for outside submission wins
 
 ## Approved and published in this repository
 
-_Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the May 2026 README growth). Total distinct entries: **113**._
+_Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the May 2026 README growth). Total distinct entries: **117**._
 
 ### Featured ecosystem (20)
 - **FreeEQ8** — Free open-source 8-band parametric EQ with dynamic EQ, linear phase, match EQ, per-band drive, M/S support, oversampling, and spectrum analysis
@@ -38,7 +38,7 @@ _Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the
 - **VF-PlexLab** — VocalForge PersonaPlex Lab — JUCE plugin + backend + HTML tester for voice-conditioned vocal asset generation
 - **PAP-Forge-Audio** — Procedural Autonomous Plugins runtime for generating, branching, and validating plugin projects from natural-language sound intent
 
-### Equalizers (8)
+### Equalizers (9)
 - **FreeEQ8**
 - **TDR Nova**
 - **TDR SlickEQ**
@@ -47,8 +47,9 @@ _Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the
 - **Blue Cat Triple EQ**
 - **Marvel GEQ**
 - **ReaEQ**
+- **Band Practice**
 
-### Synthesizers (8)
+### Synthesizers (9)
 - **Vital**
 - **Surge XT**
 - **Dexed**
@@ -57,6 +58,7 @@ _Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the
 - **OB-Xd**
 - **TAL-NoiseMaker**
 - **Tunefish4**
+- **air**
 
 ### Compression (5)
 - **TDR Kotelnikov**
@@ -112,7 +114,7 @@ _Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the
 - **HY-Filter4 Free**
 - **Morph EQ**
 
-### Utility / Metering (7)
+### Utility / Metering (8)
 - **MeterMaid**
 - **SPAN**
 - **Youlean Loudness Meter**
@@ -120,11 +122,13 @@ _Re-synced 2026-11-08 from README.md (was 94 entries — the ledger predated the
 - **HOFA 4U Meter**
 - **dpMeter5**
 - **MiniMeters**
+- **AudioLens**
 
-### Open-Source DSP Plugins (4)
+### Open-Source DSP Plugins (5)
 - **Airwindows**
 - **Chowdhury DSP**
 - **DISTRHO Ports**
+- **Pakku**
 - **ZL-Audio Plugins**
 
 ### Multi-Effect Bundles (4)
