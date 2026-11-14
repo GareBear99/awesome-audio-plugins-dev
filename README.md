@@ -243,6 +243,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**TAL-NoiseMaker**](LINK_PAGES/tal-noisemaker.md) — Virtual analog synth with strong preset support. [Official site / repo](https://tal-software.com/products/tal-noisemaker)
 - [**Tunefish4**](LINK_PAGES/tunefish4.md) — Additive synthesizer. [Official site / repo](https://github.com/paynebc/tunefish)
 - [**air**](https://github.com/Planetary-Records/air-synth) — Free, open-source early-alpha rack synth with synthesis, effects, a drum sampler and editable MIDI patterns. Windows VST3. [Official site / repo](https://air.planetary.music/)
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) — Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 ## Compression
 
