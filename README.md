@@ -243,6 +243,7 @@ See the full guide: [EQUALIZERS.md](EQUALIZERS.md)
 - [**TAL-NoiseMaker**](LINK_PAGES/tal-noisemaker.md) — Virtual analog synth with strong preset support. [Official site / repo](https://tal-software.com/products/tal-noisemaker)
 - [**Tunefish4**](LINK_PAGES/tunefish4.md) — Additive synthesizer. [Official site / repo](https://github.com/paynebc/tunefish)
 - [**air**](https://github.com/Planetary-Records/air-synth) — Free, open-source early-alpha rack synth with synthesis, effects, a drum sampler and editable MIDI patterns. Windows VST3. [Official site / repo](https://air.planetary.music/)
+- [**Tone Forge**](https://hannes-software.com/tone-forge/) — Offline virtual modular synthesizer with explicit oscillator, filter, envelope, and stereo effects graph for Windows and Linux (free Community Edition).
 
 ## Compression
 
@@ -332,6 +333,7 @@ See the full guide: [OPEN_SOURCE_DSP_PLUGIN_REPOSITORIES.md](OPEN_SOURCE_DSP_PLU
 - [**MeldaProduction MFreeFXBundle**](LINK_PAGES/meldaproduction-mfreefxbundle.md) — Large free bundle including EQ, compression, reverb, and analysis tools. [Official site / repo](https://www.meldaproduction.com/MFreeFXBundle)
 - [**Audio Damage Free Collection**](LINK_PAGES/audio-damage-free-collection.md) — Free plugins such as Backmask, DreamEater, Dumpster Fire, MISHBY, MouthOfSorrow, and PocketDimension. [Official site / repo](https://www.audiodamage.com/pages/free-and-legacy)
 - [**Cymatics Free Plugins**](LINK_PAGES/cymatics-free-plugins.md) — Free plugin collection including Diablo Lite, Space Lite, Memory, and Deja Vu. [Official site / repo](https://cymatics.fm/pages/free-download-vault)
+- [**Thump Forge**](https://hannes-software.com/thump-forge/) — Offline electric bass amp simulator, 12-module effects rack, 5-string tuner, and Windows VST3 plugin (free Community Edition).
 
 ## Plugin Frameworks
 
